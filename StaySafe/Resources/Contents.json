@@ -1,0 +1,52 @@
+{
+    "EN": {
+        
+    },
+    
+    "PL": {
+        {
+            "title": "Porady",
+            "subtitle": "Wrocław to przyjazne miasto młodych ludzi. Mogą się jednak, tak jak wszędzie, zdarzyć pewne trudne sytuacje. Zapraszamy Cię do obejrzenia kilku porad, które na pewno będą dla Ciebie użyteczne:",
+            "contents": {
+                {
+                    "title": "Porada nr #1:",
+                    "text": "Jeśli wypłacasz gotówkę z bankomatu – chroń swój numer PIN. Najlepiej zasłoń klawiaturę dłonią, aby nikt nie zobaczył Twojego numeru. Jeśli już wypłacisz gotówkę, nie przeliczaj jej na widoku."
+                },
+                {
+                    "title": "Porada nr #2:",
+                    "text": "W środkach transportu publicznego: tramwajach i autobusach wybieraj, w miarę możliwości, miejsce blisko kierowcy. Będzie on mógł odpowiednio zareagować w sytuacji, gdybyś potrzebował pomocy lub wskazać Ci właściwy przystanek."
+                },
+                {
+                    "title": "Porada nr #3:",
+                    "text": "Zaplanuj swoją pieszą trasę tak, aby wybierać większe i oświetlone ulice. Ciemne podwórka albo przejścia podziemne mogą być niebezpieczne, szczególnie wieczorami."
+                },
+                {
+                    "title": "Porada nr #4:",
+                    "text": "Pamiętaj aby wszelkie umowy dotyczące wynajmu pokoju/mieszkania zawierać w formie papierowej. Powinieneś jeden egzemplarz umowy otrzymać dla siebie. Jeśli właściciel pobiera kaucję, również powinieneś otrzymać potwierdzenie na kwotę wpłaconej kaucji, abyś nie miał problemów z jej zwrotem. Jeśli umowa na najem lokalu została zawarta na czas nieoznaczony, a czynsz jest płatny miesięcznie, wtedy umowę można wypowiedzieć na trzy miesiące naprzód na koniec miesiąca kalendarzowego."
+                }
+            }
+        },
+        {
+            "title": "Przepisy",
+            "subtitle": "Co powinienem wiedzieć o przepisach w Polsce?",
+            "contents": {
+                {
+                    "title": "1. Moje obowiązki i prawa jako cudzoziemca w Polsce",
+                    "text": "Pobyt cudzoziemców na terytorium RP reguluje ustawa z dnia 12 grudnia 2013 roku o cudzoziemcach. W przypadku posiadania podwójnego obywatelstwa, cudzoziemca traktuje się jako obywatela tego państwa, którego dokument podróży stanowił podstawę wjazdu do Polski.
+                        Noś ze sobą dokument. Bariera językowa może się okazać przeszkodą nie do pokonania. O ile język angielski jest w większości znany funkcjonariuszom Policji w stopniu umożliwiającym podstawową komunikację, o tyle inne języki mogą dostarczyć niepotrzebnych nieporozumień. Jakikolwiek dokument, w którym podana będzie pisownia imienia i nazwiska, oraz wpisana data urodzenia, będzie na pewno bardzo użyteczny w ustaleniu Twoich personaliów. Należy tu wspomnieć, że niemożność ustalenia tożsamości jest jedną z podstaw do zatrzymania osoby.
+                        [Ustawa o cudzoziemcach art. 288. Cudzoziemiec w okresie pobytu na terytorium Rzeczypospolitej Polskiej jest obowiązany posiadać ważny dokument podróży oraz dokumenty uprawniające go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane.
+                        Ustawa o cudzoziemcach art. 465.1 Kto:  na żądanie uprawnionych organów nie okazuje dokumentów uprawniających go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane, - podlega karze grzywny]."
+                }
+            }
+        },
+        {
+            "title": "Trudne sytuacje"
+        },
+        {
+            "title": "Numery alarmowe"
+        },
+        {
+            "title": "Instytucje"
+        }
+    }
+}
