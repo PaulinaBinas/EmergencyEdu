@@ -32,18 +32,181 @@
             "contents": {
                 {
                     "title": "1. Moje obowiązki i prawa jako cudzoziemca w Polsce",
-                    "text": "Pobyt cudzoziemców na terytorium RP reguluje ustawa z dnia 12 grudnia 2013 roku o cudzoziemcach. W przypadku posiadania podwójnego obywatelstwa, cudzoziemca traktuje się jako obywatela tego państwa, którego dokument podróży stanowił podstawę wjazdu do Polski.
-                        Noś ze sobą dokument. Bariera językowa może się okazać przeszkodą nie do pokonania. O ile język angielski jest w większości znany funkcjonariuszom Policji w stopniu umożliwiającym podstawową komunikację, o tyle inne języki mogą dostarczyć niepotrzebnych nieporozumień. Jakikolwiek dokument, w którym podana będzie pisownia imienia i nazwiska, oraz wpisana data urodzenia, będzie na pewno bardzo użyteczny w ustaleniu Twoich personaliów. Należy tu wspomnieć, że niemożność ustalenia tożsamości jest jedną z podstaw do zatrzymania osoby.
-                        [Ustawa o cudzoziemcach art. 288. Cudzoziemiec w okresie pobytu na terytorium Rzeczypospolitej Polskiej jest obowiązany posiadać ważny dokument podróży oraz dokumenty uprawniające go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane.
-                        Ustawa o cudzoziemcach art. 465.1 Kto:  na żądanie uprawnionych organów nie okazuje dokumentów uprawniających go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane, - podlega karze grzywny]."
+                    "text": "Pobyt cudzoziemców na terytorium RP reguluje ustawa z dnia 12 grudnia 2013 roku o cudzoziemcach. W przypadku posiadania podwójnego obywatelstwa, cudzoziemca traktuje się jako obywatela tego państwa, którego dokument podróży stanowił podstawę wjazdu do Polski.Noś ze sobą dokument. Bariera językowa może się okazać przeszkodą nie do pokonania. O ile język angielski jest w większości znany funkcjonariuszom Policji w stopniu umożliwiającym podstawową komunikację, o tyle inne języki mogą dostarczyć niepotrzebnych nieporozumień. Jakikolwiek dokument, w którym podana będzie pisownia imienia i nazwiska, oraz wpisana data urodzenia, będzie na pewno bardzo użyteczny w ustaleniu Twoich personaliów. Należy tu wspomnieć, że niemożność ustalenia tożsamości jest jedną z podstaw do zatrzymania osoby."
+                    "act": {
+                        {
+                            "title": "Ustawa o cudzoziemcach art. 288",
+                            "text": "Cudzoziemiec w okresie pobytu na terytorium Rzeczypospolitej Polskiej jest obowiązany posiadać ważny dokument podróży oraz dokumenty uprawniające go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane."
+                        },
+                        {
+                            "title": "Ustawa o cudzoziemcach art. 465.1",
+                            "text": "Kto:  na żądanie uprawnionych organów nie okazuje dokumentów uprawniających go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane, - podlega karze grzywny."
+                        }
+                    }
+                },
+                {
+                    "title": "2. Zakłócanie spokoju i ciszy nocnej",
+                    "text": "Wszyscy zdają sobie sprawę z tego, że studenckie życie to nie tylko nauka. Zdarzają się studentom imprezy, a niektóre z nich potrafią być bardzo hałaśliwe. Może to być uciążliwe dla sąsiadów i narazić imprezowiczów na mandat karny albo wniosek o ukaranie do sądu. Warto jest uprzedzić sąsiadów o planowanym przyjęciu i zorganizować je w taki sposób, aby nie zakłócało ono ich spokoju. Hałasy, głośne rozmowy, muzyka puszczana do późnych godzin nocnych na pewno nie będą mile widziane. Każdy ma prawo do zabawy i do cieszenia się życiem, ale prawo to kończy się w miejscu, gdzie zaczyna się prawo innej osoby do spokojnego odpoczynku w swoim mieszkaniu. Niektóre osiedla posiadają również swoje regulaminy porządkowe, w których określone są godziny ciszy nocnej, zwyczajowo jest to czas od godziny 22:00 do 6:00.",
+                    "act": ""
+                },
+                {
+                    "title": "3. Czy można spożywać alkohol w miejscu publicznym?",
+                    "text": "W Polsce nie można spożywać alkoholu w miejscach publicznych, czyli takich które dostępne są dla ogółu. Oznacza to, że w praktyce nie możemy pić na przykład na ulicach, placach, w parkach, środkach komunikacji zbiorowej, na przystankach i w innych miejscach, do których jest nieograniczony dostęp. Zakaz dotyczy również wszystkich budynków, w których funkcjonuje przestrzeń publiczna i mogą to być na przykład urzędy, dworce lub teatry. Miłośników picia alkoholu pomimo zakazu czeka pouczenie, mandat karny, lub wniosek o ukaranie do sądu.Alkohol natomiast można spożywać we wszystkich miejscach, w których jest to dozwolone odpowiednią koncesją. Taką koncesję powinny posiadać wszystkie restauracje, bary i kluby oferujące alkohol. Bardzo popularne, szczególnie w okresie letnim, jest korzystanie z tzw. 'ogródków piwnych'. Większość lokali na wrocławskim Rynku posiada takie ogródki i spożywanie w nich alkoholu jest zupełnie legalne. Problem się jednak pojawi, gdybyśmy chcieli zabrać na przykład butelkę z piwem z takiego ogródka i przespacerować się wokół Rynku – wówczas popełnimy wykroczenie.",
+                    "act": ""
+                },
+                {
+                    "title": "4.Gdzie nie można palić papierosów i e-papierosów?",
+                    "text": "W Polsce obowiązuje zakaz palenia tytoniu w miejscach publicznych, takich jak między innymi:
+                        •    restauracje, bary, kluby muzyczne,
+                        •    uczelnie wyższe i szkoły,
+                        •    szpitale,
+                        •    kina, teatry, kąpieliska,
+                        •    hotele,
+                        •    przystanki komunikacji publicznej,
+                        •    autobusy i tramwaje,
+                        •    obiekty sportowe,
+                        •    place zabaw dla dzieci,
+                    Zakaz dotyczy zarówno papierosów tradycyjnych, jak i elektronicznych. Szczegółowy wykaz miejsc objętych zakazem palenia tytoniu określony jest w Ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych. Oznacza to, że zakaz obowiązuje tylko w tych wymienionych punktach i papierosa można zapalić np. na ulicy albo w parku. Można ponadto palić w specjalnie wydzielonych pomieszczeniach – palarniach, jeśli znajdują się one w restauracjach, klubach, na uczelniach lub w innych miejscach.",
+                    "act": ""
+                },
+                {
+                    "title": "5. Posiadanie narkotyków jest w Polsce zabronione.",
+                    "text": "Posiadanie narkotyków w każdej ilości jest w Polsce zakazane. Nie ma granicy poniżej której można posiadać substancje zabronione „na własny użytek”. Posiadanie każdej, nawet najmniejszej ilości narkotyków jest przestępstwem. Pełen wykaz zakazanych środków odurzających i substancji psychotropowych znajduje się w załączniku do Ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii. Uważaj ponadto na tzw. „dopalacze” czyli środki, które mają zapewnić jak najwierniejszy efekt narkotyczny. Są one szczególnie szkodliwe ze względu na niebezpieczny dla zdrowia skład chemiczny i swoje nieprzewidywalne działanie. Dopalacze są przyczyną wielu zgonów i zatruć. Posiadanie znacznych ilości tych środków, a także handel nimi jest również przestępstwem. Jeśli ktokolwiek częstuje Cię nieznaną substancją, stanowczo odmów, a być może unikniesz wielu przykrych konsekwencji.",
+                    "act": ""
+                },
+                {
+                    "title": "6. Za co i kiedy mogę dostać mandat",
+                    "text": "Osoba, która łamie przepisy zawarte w Kodeksie wykroczeń albo w innych ustawach, może zostać ukarana mandatem karnym albo może zostać skierowany przeciwko niej wniosek o ukaranie do sądu. Najczęściej zdarza się, że policjanci nakładają mandaty za wykroczenia drogowe takie jak:
+                        •    przekraczanie dozwolonej prędkości,
+                        •    niestosowanie pasów bezpieczeństwa,
+                        •    nieprawidłowe zachowania wobec pieszych,
+                        •    niestosowanie się do sygnalizacji świetlnej.
+                    Karane są również wykroczenia społecznie uciążliwe, między innymi:
+                        •    spożywanie alkoholu w miejscu zabronionym ustawowo,
+                        •    zaśmiecanie miejsca dostępnego dla publiczności,
+                        •    zakłócanie spokoju.
+                    Pamiętaj, że masz prawo nie zgodzić z policjantem nakładającym na Ciebie mandat karny i odmówić jego przyjęcia. Zostanie wówczas skierowany wniosek o ukaranie do sądu i w sądzie będziesz musiał wyjaśnić wszelkie okoliczności i to sędzia zdecyduje o twojej winie lub niewinności.
+                    Policjanci zazwyczaj nakładają mandaty karne kredytowane. Są to mandaty, które opłaca się przelewem ze swojego rachunku, w banku lub na poczcie, na konto wskazane w mandacie. Mandat taki powinno się opłacić w terminie do 7 dni. Jeśli osoba tylko czasowo przebywa na terytorium Polski (obcokrajowcy) albo nie ma stałego miejsca zamieszkania lub pobytu, wówczas policjant nakłada mandat gotówkowy. Oznacza to, że taki mandat należy zapłacić funkcjonariuszowi na miejscu kontroli i w walucie polskiej. Ze względu na stale rosnącą popularność płatności kartami, część wrocławskich funkcjonariuszy wyposażona jest w przenośne terminale płatnicze. Jeśli natomiast ukarany nie ma przy sobie gotówki, nie może też pobrać pieniędzy z bankomatu, zapłacić w terminalu albo wymienić w kantorze - stosuje się wtedy postępowanie przyśpieszone. Sprawca wykroczenia jest zatrzymywany i doprowadzany do sądu.",
+                    "act": ""
+                },
+                {
+                    "title": "7. Czy mogę prowadzić samochód po spożyciu alkoholu?",
+                    "text": "Kierowanie pojazdem w stanie nietrzeźwości jest w Polsce przestępstwem, jeśli zawartość alkoholu w twojej krwi przekracza albo prowadzi do stężenia przekraczającego 0,5 promila. Również mniejsza ilość może narazić Cię na odpowiedzialność, bo stężenie alkoholu we krwi od 0,2 do 0,5 promila jest wykroczeniem. Nie eksperymentuj z internetowymi kalkulatorami i nie obliczaj, jaką ilośc alkoholu możesz wypić i jeszcze prowadzić. Stężenie alkoholu zależy od wagi, płci i innych czynników, dlatego najlepiej trzymać się zasady „piłeś – nie jedź!” Kierowanie pojazdem w stanie nietrzeźwości jest zagrożone karą pozbawienia wolności do 2 lat, wysoką grzywną oraz zakazem prowadzenia pojazdów. W przypadku mniejszego stężenia, czyli popełnienia wykroczenia polegającego na prowadzeniu pojazdu w stanie po spożyciu alkoholu (od 0,2 do 0,5 promila) również grożą surowe konsekwencje. W tym przypadku sprawcy grozi grzywna do 5 tysięcy złotych, areszt i czasowa utrata prawa jazdy. Nie opłaca się więc jeździć po alkoholu. Należy również pamiętać, że odpowiedzialność karna znacznie rośnie w momencie, gdy spowodujemy wypadek. Zawartość we krwi poniżej 0,2 promila – alkohol był spożywany, ale nie ma przestępstwa lub wykroczenia; 0,2 – 0,5 promila - stan po użyciu alkoholu – wykroczenie; powyżej 0,5 promila – stan nietrzeźwości – przestępstwo.",
+                    "act": ""
+                },
+                {
+                    "title": "8. Co to jest WrOPON – na wszelki wypadek",
+                    "text": "Po zakrapianej imprezie można mieć przymusowy nocleg we Wrocławskim Ośrodku Pomocy Osobom Nietrzeźwym, czyli w dawnej Izbie Wytrzeźwień. Jeśli po wyjściu z imprezy będziesz tak pijany, że swoim zachowaniem stworzysz zagrożenie dla siebie albo dla innych, na przykład będziesz się przewracał na chodniku albo zaśniesz na trawniku w pobliżu ruchliwej ulicy, szczególnie jeśli na dworze będzie niska temperatura - funkcjonariusze straży miejskiej albo Policji mogą odwieźć Cię w bardziej „bezpieczne” miejsce. Będziesz tam musiał wytrzeźwieć i dopiero wtedy zostaniesz wypuszczony. Do WrOPON możesz również trafić jeśli jesteś po alkoholu agresywny w stosunku do innych osób.",
+                    "act": ""
+                },
+                {
+                    "title": "9. Co to jest przestępstwo z nienawiści?",
+                    "text": "W ostatnich latach bardzo wyraźnie przybywa obcokrajowców osiedlających się czasowo lub na stałe w Polsce. Pamiętać należy, że osoby wyróżniające się na tle ogółu ze względu na odrębną narodowość, rasę, wyznanie religijne, orientację seksualną, czy też niepełnosprawność – mogą stać się ofiarami przestępstwa. Każdy człowiek, niezależnie od narodowości, ma prawo czuć się bezpiecznie. Zarówno obcokrajowca, jak i obywatela narodowości polskiej obowiązują te same przepisy prawa i ochrona. Przestępstwa z nienawiści mogą przybierać różną formę, ale mają one jeden wspólny mianownik - ofiara przestępstwa jest wybierana ze względu na swoje cechy, odróżniające ją od innych. Mogą to być akty wandalizmu, pobicia, naruszenie nietykalności osobistej, stosowanie gróźb i inne czyny, których motywem jest czyjaś odmienność. Warto również przytoczyć treść artykułu 257 kodeksu karnego: Kto publicznie znieważa grupę ludności albo poszczególną osobę z powodu jej przynależności narodowej, etnicznej, wyznaniowej albo z powodu jej bezwyznaniowości lub z takich powodów narusza nietykalność cielesną innej osoby podlega karze pozbawienia wolności do lat 3. Godność człowieka i grup ludności jest w Polsce prawnie chroniona przed poniżeniem, żaden przejaw rasizmu, ksenofobii nie może być zbagatelizowany, nawet jeśli dotyczy to wpisu w Internecie. Wszystkie przestępstwa z nienawiści powinny być zgłaszane na Policję.",
+                    "act": ""
+                },
+                {
+                    "title": "10.Co to jest nieobyczajny wybryk?",
+                    "text": "Nieobyczajnym wybrykiem jest nieprzyzwoite zachowanie, takie które odbiega od przyjętych norm postępowania. Mogą to być różne zachowania: zbyt frywolne odsłanianie swojego ciała w miejscach publicznych, załatwianie potrzeb fizjologicznych na oczach spacerowiczów, spanie na przystanku w taki sposób, że powoduje to zgorszenie innych osób, każdy wybryk daleki od norm kulturalnego zachowania. Pamiętajmy ponadto, że we Wrocławiu nie możemy się kąpać w fontannach miejskich. Miejski monitoring bardzo szybko wychwyci amatorów takiej kąpieli i równie szybko spotkają się oni ze stróżami prawa. Fontanny są to instalacje dekoracyjne, nie służą kąpielom. Woda w nich krąży w obiegu zamkniętym, dlatego mogą być one niebezpieczne dla zdrowia.",
+                    "act": ""
                 }
             }
         },
         {
-            "title": "Trudne sytuacje"
+            "title": "Trudne sytuacje",
+            "subtitle": "Jak się zachować w trudnej sytuacji?",
+            "content": {
+                {
+                    "title": "1. Straciłem dokumenty",
+                    "text": "Jeśli zgubisz dokumenty, albo zostaną Ci one ukradzione, powinieneś zawiadomić o tym odpowiednie instytucje. Jeśli są to karty płatnicze i kredytowe, niezwłocznie skontaktuj się ze swoim bankiem i zastrzeż karty. Możesz również zadzwonić na numer telefonu 828 828 828 - jest to infolinia przeznaczona do zastrzegania kart, niezależnie od tego, w którym banku ma się konto. Jeśli zgubiłeś dowód osobisty, prawo jazdy, paszport, co do zasady powinieneś o zagubieniu poinformować organ albo instytucję, która ten dokument wydała. Jeśli są to dokumenty z Twojego ojczystego kraju, powiadom urząd konsularny lub przedstawicielstwo dyplomatyczne. Zrób to jak najszybciej, aby nikt nie mógł posłużyć się Twoim dokumentem. Jeśli dokumenty zostały Ci ukradzione, poinformuj Policję, wtedy zostaną one zarejestrowane w policyjnych systemach jako utracone. Zgłoszenia możesz dokonać na najbliższym komisariacie Policji."
+                },
+                {
+                    "title": "2. Kradzież",
+                    "text": "Najlepiej jest robić wszystko, żeby do kradzieży nie doszło, czyli nie zostawiać bez opieki rzeczy wartościowych i nie nosić ze sobą dużych kwot pieniędzy. Co jednak zrobić, gdy już zostaliśmy okradzeni? Sprawę należy zgłosić na Policji, trzeba udać się w tym celu, najlepiej na komisariat właściwy ze względu na miejsce, gdzie do kradzieży doszło. Idąc na komisariat warto przygotować sobie kilka niezbędnych informacji. Po pierwsze datę i godzinę zdarzenia oraz określić jego miejsce (informacje te mogę się zapisać automatycznie po naciśnięciu Help Button w aplikacji). Następnie należy przygotować opis skradzionego przedmiotu, jego cechy charakterystyczne, markę, model, a najlepiej numer seryjny. Jeśli możemy, to podajmy rysopis sprawcy i ewentualnie kierunek, z którego przyszedł albo w którym się oddalił. Określenie dokładnego miejsca jest o tyle istotne, że policjanci mogą ustalić, czy teren ten jest objęty monitoringiem."
+                },
+                {
+                    "title": "3. Przestępstwo z nienawiści",
+                    "text": "W przypadku gdy staliśmy się ofiarą albo świadkiem działań rasistowskich, ksenofobicznych lub nawoływania do nienawiści, powinniśmy to zgłosić, również jeśli wszystko działo się w Internecie. Zawiadomienie o popełnieniu przestępstwa można, opisując dokładnie całe zdarzenie, złożyć pisemnie w prokuraturze. Można również zrobić to ustnie na komisariacie Policji. Sprawa karna nie zamyka drogi do dochodzenia swoich praw, w tym zadośćuczynienia na gruncie prawa cywilnego. Jeśli zetknęliśmy się z mową nienawiści w Internecie, pamiętajmy że organy ścigania mają liczne metody ustalania tożsamości osób ukrywających się za ekranem swojego komputera. Ważne jest, aby nie pozwolić takim działaniom się rozwijać i zgłosić je, zanim sytuacja stanie się niebezpieczna. Poważne przestępstwa mogą skutkować zatrzymaniem sprawcy, aby nie zrealizował swoich gróźb lub nie kontynuował przemocy.
+"
+                },
+                {
+                    "title": "4. Przestępstwo na tle seksualnym",
+                    "text": "W Polsce przestępstwo na tle seksualnym jakim jest zgwałcenie, jest ścigane z urzędu. Osoba pokrzywdzona nie musi składać wniosku o ściganie sprawcy. O każdym takim przypadku należy poinformować Policję, również jeśli pomocy potrzebuje ktoś inny. Zwykła ostrożność może pomóc Ci uniknąć wielu przykrych konsekwencji. Przeczytaj kilka porad, które dla Ciebie przygotowaliśmy:
+                        •    Bawiąc się w klubie, nie zostawiaj bez nadzoru swojego drinka. Ktoś może dorzucić do niego narkotyk, również taki, który sprawi że będziesz podatny na polecenia innych.
+                        •    Idąc na imprezę, dbaj o to, żeby wychodzić i wracać w gronie przyjaciół. Nie zostawiajcie nikogo ze swoich przyjaciół w nocy na mieście, tym bardziej jeśli przesadził z alkoholem. Odprowadźcie bezpiecznie do domów tych, którzy najbardziej tego potrzebują.
+                        •    Uważaj na przypadkowe znajomości, tym bardziej jeśli są zawierane po alkoholu."
+                },
+                {
+                    "title": "5. Przestępstwa inne",
+                    "text": "Każdą sytuację, w której czujesz się zagrożony, albo doznasz szkody w swoim mieniu, zdrowiu, a jest to spowodowane działaniem innej osoby – powinieneś zgłosić na Policję. Jeśli nie jesteś pewny, czy sytuacja z którą masz do czynienia jest w Polsce przestępstwem, poradź się policjanta, ten na pewno nie odmówi Ci pomocy.
+                    W Polsce zbiór norm prawa karnego znajduje się w Kodeksie Karnym. Przepisy są pogrupowane w rozdziały:
+                        •    Przestępstwa przeciwko życiu i zdrowiu,
+                        •    Przestępstwa przeciwko bezpieczeństwu powszechnemu,
+                        •    Przestępstwa przeciwko środowisku,
+                        •    Przestępstwa przeciwko wolności, porządkowipublicznemu, mieniu
+                        •    (...)
+                    to tylko niektóre z rozdziałów. Oprócz tego przepisy karne znajdują się w
+                    innych ustawach. Ponieważ może się to wydać na pierwszy rzut oka bardzo skomplikowane – lepiej w przypadku wątpliwości poradzić się kogoś zaufanego, kogoś biegłego w prawie lub bezpośrednio policjanta. Na każdym komisariacie Policji, nawet w nocy, zastaniesz oficera dyżurnego. Oficerami Dyżurnymi zostają doświadczeni policjanci, taki funkcjonariusz na pewno Cię wysłucha i wskaże, co należy zrobić w konkretnym przypadku."
+                },
+                {
+                    "title": "6. Legitymowanie przez Policję",
+                    "text": "Może się zdarzyć taka sytuacja, że będziesz legitymowany przez Policję. Pamiętaj, aby wykonywać polecenia funkcjonariuszy i zachowywać się spokojnie.
+                        •    Zostaniesz poproszony przez policjanta o okazanie dokumentu tożsamości. Jeśli takiego nie masz przy sobie, będziesz musiał podać dokładnie wszystkie dane ustnie. Obcokrajowcy powinni posiadać ponadto dokument uprawniający do pobytu na terytorium Polski, w praktyce jest to najczęściej po prostu paszport.
+                        •    Następnie zostaniesz sprawdzony w policyjnych systemach, czy przypadkiem nie jesteś osobą poszukiwaną.
+                        •    Może się również zdarzyć taka sytuacja, że policjant poprosi Cię o pokazanie zawartości plecaka albo kieszeni, aby sprawdzić, czy nie masz przy sobie niebezpiecznych przedmiotów, substancji zabronionych albo rzeczy pochodzących z przestępstwa.
+                        •    Nie wprowadzaj policjanta w błąd co do swoich danych, ponieważ narazisz się na odpowiedzialność prawną. Pamiętaj również, że niemożność ustalenia tożsamości jest jedną z przesłanek do zatrzymania Cię, więc lepiej podaj prawdziwe dane i wykonuj polecenia funkcjonariusza."
+                },
+                {
+                    "title": "7. Zatrzymanie przez Policję",
+                    "text": "Osobie zatrzymanej w postępowaniu karnym przysługują wymienione poniżej uprawnienia:
+                        •    Prawo do informacji o przyczynie zatrzymania i do bycia wysłuchanym (art. 244 § 2)(3).
+                        •    Prawo do złożenia lub odmowy złożenia oświadczenia w swojej sprawie (art. 244 § 3).
+                        •    Prawo do niezwłocznego kontaktu z adwokatem lub radcą prawnym i bezpośredniej z nim rozmowy (art. 245 § 1).
+                        •    Jeżeli zatrzymany nie zna wystarczająco języka polskiego – prawo do korzystania z bezpłatnej pomocy tłumacza (art. 72 § 1).
+                        •    Prawo do otrzymania odpisu protokołu zatrzymania (art. 244 § 3).
+                        •    Prawo do zawiadomienia osoby najbliższej lub innej wskazanej osoby, jak również pracodawcy, szkoły, uczelni, dowódcy oraz osoby zarządzającej przedsiębiorstwem zatrzymanego albo przedsiębiorstwem, za które jest on odpowiedzialny, o zatrzymaniu (art. 245 § 2, art. 261 § 1, § 2 i §
+                        •     O zatrzymaniu Policja zawiadamia organ prowadzący przeciwko oskarżonemu postępowanie w innej sprawie, o ile o nim wie (art. 261 § 2a).
+                        •    Jeżeli zatrzymany nie jest obywatelem polskim – prawo do kontaktu z urzędem konsularnym lub z przedstawicielstwem dyplomatycznym państwa, którego jest obywatelem.
+                        •    Jeżeli nie posiada żadnego obywatelstwa – prawo do kontaktu z przedstawicielem państwa, w którym zatrzymany mieszka na stałe (art. 612 § 2). Jeżeli przewiduje to umowa konsularna między Polską a państwem, którego zatrzymany jest obywatelem, właściwy urząd konsularny lub przedstawicielstwo dyplomatyczne zostaną poinformowane o zatrzymaniu również bez jego prośby.
+                        •    Prawo do wniesienia do sądu zażalenia na zatrzymanie w terminie 7 dni od dnia zatrzymania. W zażaleniu można się domagać zbadania zasadności, legalności oraz prawidłowości zatrzymania (art.246 § 1).
+                        •    Prawo do natychmiastowego zwolnienia, jeżeli przyczyny zatrzymania przestały istnieć albo po upływie 48 godzin od chwili zatrzymania, o ile zatrzymany nie zostanie w tym czasie przekazany do sądu z wnioskiem o zastosowanie tymczasowego aresztowania. W wypadku przekazania do sądu zatrzymany zostanie zwolniony, jeżeli w ciągu 24 godzin od przekazania nie zostanie mu doręczone postanowienie o zastosowaniu tymczasowego aresztowania (art. 248 § 1 i § 2).
+                        •    Dostęp do niezbędnej pomocy medycznej."
+                },
+                {
+                    "title": "8. Zgłoszenie zdarzenia na Policji.",
+                    "text": "Kiedy udajesz się na Policję w celu złożenia zawiadomienia o zdarzeniu, pamiętaj, aby zabrać ze sobą dokument tożsamości. Przygotuj się również do odpowiedzi na następujące pytania:
+                        •    Co się stało?
+                        •    Gdzie zdarzenie miało miejsce?
+                        •    Kiedy zdarzenie miało miejsce?
+                        •    Jak przebiegało zdarzenie?
+                        •    Co było powodem tego zdarzenia?
+                        •    Kto uczestniczył w zdarzeniu i być może, kim jest sprawca?
+                        •    Jakich narzędzi użył sprawca?
+
+                    Jeśli nie znasz sprawcy, przypomnij sobie jak najwięcej elementów dotyczących jego osoby: jak wyglądał, w jakim był wieku, w co był ubrany, w jakim kierunku się oddalił oraz inne istotne fakty. Jeśli przemyślisz podane wyżej pytania, przyjęcie zgłoszenia przebiegnie szybciej i nie będziesz musiał przychodzić na komisariat ponownie w celu uzupełnienia tych informacji.
+                    O pomoc i uczestnictwo w zgłoszeniu zdarzenia na Policji możesz poprosić zaufaną osobę. Najważniejsze jest, abyś zrozumiał pytania policjanta, a także dokładnie rozumiał treść podpisywanych dokumentów. Ktoś zaufany, kto pomoże Ci w trudnym momencie, może towarzyszyć Ci również na komisariacie."
+                }
+            }
         },
         {
-            "title": "Numery alarmowe"
+            "title": "Numery alarmowe",
+            "content": {
+                {
+                    "title": "Pogotowie ratunkowe",
+                    "number": "999"
+                },
+                {
+                    "title": "Straż pożarna",
+                    "number": "998"
+                },
+                {
+                    "title": "Policja",
+                    "number": "997"
+                },
+                {
+                    "title": "Jednolity ogólnoeuropejski numer alarmowy",
+                    "number": "112"
+                }
+            }
         },
         {
             "title": "Instytucje"

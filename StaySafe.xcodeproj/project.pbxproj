@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A144DEB922FB172900A15921 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A144DEB822FB172900A15921 /* Contents.json */; };
 		A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB322F36E6B002BF935 /* AppDelegate.swift */; };
 		A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB522F36E6B002BF935 /* SceneDelegate.swift */; };
 		A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB722F36E6B002BF935 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A144DEB822FB172900A15921 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 		A19CECB022F36E6B002BF935 /* StaySafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaySafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19CECB322F36E6B002BF935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A19CECB522F36E6B002BF935 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A144DEB722FB172900A15921 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A144DEB822FB172900A15921 /* Contents.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		A19CECA722F36E6B002BF935 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +109,7 @@
 		A19CECB222F36E6B002BF935 /* StaySafe */ = {
 			isa = PBXGroup;
 			children = (
+				A144DEB722FB172900A15921 /* Resources */,
 				A19CECB322F36E6B002BF935 /* AppDelegate.swift */,
 				A19CECB522F36E6B002BF935 /* SceneDelegate.swift */,
 				A19CECB722F36E6B002BF935 /* ContentView.swift */,
@@ -243,6 +254,7 @@
 				A19CECC022F36E6D002BF935 /* LaunchScreen.storyboard in Resources */,
 				A19CECBD22F36E6D002BF935 /* Preview Assets.xcassets in Resources */,
 				A19CECBA22F36E6D002BF935 /* Assets.xcassets in Resources */,
+				A144DEB922FB172900A15921 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
