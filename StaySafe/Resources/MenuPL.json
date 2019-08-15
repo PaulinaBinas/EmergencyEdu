@@ -1,0 +1,24 @@
+{
+    "menuElements": [
+        {
+            "title": "Porady",
+            "tag": 0
+        },
+        {
+            "title": "Przepisy",
+            "tag": 1
+        },
+        {
+            "title": "Trudne sytuacje",
+            "tag": 2
+        },
+        {
+            "title": "Numery alarmowe",
+            "tag": 3
+        },
+        {
+            "title": "Instytucje",
+            "tag": 4
+        }
+    ]
+}

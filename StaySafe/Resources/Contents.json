@@ -114,7 +114,7 @@
         {
             "title": "Trudne sytuacje",
             "subtitle": "Jak się zachować w trudnej sytuacji?",
-            "content": {
+            "contents": {
                 {
                     "title": "1. Straciłem dokumenty",
                     "text": "Jeśli zgubisz dokumenty, albo zostaną Ci one ukradzione, powinieneś zawiadomić o tym odpowiednie instytucje. Jeśli są to karty płatnicze i kredytowe, niezwłocznie skontaktuj się ze swoim bankiem i zastrzeż karty. Możesz również zadzwonić na numer telefonu 828 828 828 - jest to infolinia przeznaczona do zastrzegania kart, niezależnie od tego, w którym banku ma się konto. Jeśli zgubiłeś dowód osobisty, prawo jazdy, paszport, co do zasady powinieneś o zagubieniu poinformować organ albo instytucję, która ten dokument wydała. Jeśli są to dokumenty z Twojego ojczystego kraju, powiadom urząd konsularny lub przedstawicielstwo dyplomatyczne. Zrób to jak najszybciej, aby nikt nie mógł posłużyć się Twoim dokumentem. Jeśli dokumenty zostały Ci ukradzione, poinformuj Policję, wtedy zostaną one zarejestrowane w policyjnych systemach jako utracone. Zgłoszenia możesz dokonać na najbliższym komisariacie Policji."
@@ -189,7 +189,8 @@
         },
         {
             "title": "Numery alarmowe",
-            "content": {
+            "subtitle": "",
+            "contents": {
                 {
                     "title": "Pogotowie ratunkowe",
                     "number": "999"

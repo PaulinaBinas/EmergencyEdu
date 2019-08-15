@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A144DEB922FB172900A15921 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A144DEB822FB172900A15921 /* Contents.json */; };
+		A144DEB922FB172900A15921 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A144DEB822FB172900A15921 /* Contents.json */; settings = {ASSET_TAGS = (contents, ); }; };
+		A14BC33C2305E7D400D02376 /* LawsPL.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC3382305A09A00D02376 /* LawsPL.json */; };
+		A14BC3402305E9A700D02376 /* MenuPL.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC33F2305E9A700D02376 /* MenuPL.json */; };
+		A14BC3422305E9FC00D02376 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC3412305E9FC00D02376 /* Menu.swift */; };
+		A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33A2305CFF100D02376 /* DataLoader.swift */; };
+		A14BC3442305EBD000D02376 /* Laws.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33B2305CFF100D02376 /* Laws.swift */; };
+		A155A3192304C9B6004BBF4C /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = A155A3182304C9B6004BBF4C /* test.json */; };
 		A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB322F36E6B002BF935 /* AppDelegate.swift */; };
 		A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB522F36E6B002BF935 /* SceneDelegate.swift */; };
 		A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB722F36E6B002BF935 /* ContentView.swift */; };
@@ -36,7 +42,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A144DEB822FB172900A15921 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		A144DEB822FB172900A15921 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.json; };
+		A14BC3382305A09A00D02376 /* LawsPL.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = LawsPL.json; path = ../LawsPL.json; sourceTree = "<group>"; };
+		A14BC33A2305CFF100D02376 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
+		A14BC33B2305CFF100D02376 /* Laws.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Laws.swift; sourceTree = "<group>"; };
+		A14BC33F2305E9A700D02376 /* MenuPL.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = MenuPL.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/MenuPL.json; sourceTree = "<group>"; };
+		A14BC3412305E9FC00D02376 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/Menu.swift; sourceTree = "<group>"; };
+		A155A3182304C9B6004BBF4C /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = test.json; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/test.json; sourceTree = "<group>"; };
 		A19CECB022F36E6B002BF935 /* StaySafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaySafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19CECB322F36E6B002BF935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A19CECB522F36E6B002BF935 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,9 +93,21 @@
 		A144DEB722FB172900A15921 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A14BC3382305A09A00D02376 /* LawsPL.json */,
 				A144DEB822FB172900A15921 /* Contents.json */,
+				A14BC33F2305E9A700D02376 /* MenuPL.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		A14BC3392305CFE300D02376 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A14BC33B2305CFF100D02376 /* Laws.swift */,
+				A14BC33A2305CFF100D02376 /* DataLoader.swift */,
+				A14BC3412305E9FC00D02376 /* Menu.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 		A19CECA722F36E6B002BF935 = {
@@ -109,6 +133,7 @@
 		A19CECB222F36E6B002BF935 /* StaySafe */ = {
 			isa = PBXGroup;
 			children = (
+				A14BC3392305CFE300D02376 /* Models */,
 				A144DEB722FB172900A15921 /* Resources */,
 				A19CECB322F36E6B002BF935 /* AppDelegate.swift */,
 				A19CECB522F36E6B002BF935 /* SceneDelegate.swift */,
@@ -117,6 +142,7 @@
 				A19CECBE22F36E6D002BF935 /* LaunchScreen.storyboard */,
 				A19CECC122F36E6D002BF935 /* Info.plist */,
 				A19CECBB22F36E6D002BF935 /* Preview Content */,
+				A155A3182304C9B6004BBF4C /* test.json */,
 			);
 			path = StaySafe;
 			sourceTree = "<group>";
@@ -209,6 +235,9 @@
 		A19CECA822F36E6B002BF935 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					contents,
+				);
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = stud;
@@ -252,9 +281,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				A19CECC022F36E6D002BF935 /* LaunchScreen.storyboard in Resources */,
+				A14BC3402305E9A700D02376 /* MenuPL.json in Resources */,
 				A19CECBD22F36E6D002BF935 /* Preview Assets.xcassets in Resources */,
+				A14BC33C2305E7D400D02376 /* LawsPL.json in Resources */,
 				A19CECBA22F36E6D002BF935 /* Assets.xcassets in Resources */,
 				A144DEB922FB172900A15921 /* Contents.json in Resources */,
+				A155A3192304C9B6004BBF4C /* test.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,8 +311,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */,
 				A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */,
 				A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */,
+				A14BC3422305E9FC00D02376 /* Menu.swift in Sources */,
+				A14BC3442305EBD000D02376 /* Laws.swift in Sources */,
 				A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
