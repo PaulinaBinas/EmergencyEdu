@@ -1,0 +1,105 @@
+{
+    "languages": [{
+            "language": "PL",
+            "contents": {
+                "title": "Przepisy",
+                "subtitle": "Co powinienem wiedzieć o przepisach w Polsce?",
+                "contents": [{
+                        "title": "1. Moje obowiązki i prawa jako cudzoziemca w Polsce",
+                        "text": "Pobyt cudzoziemców na terytorium RP reguluje ustawa z dnia 12 grudnia 2013 roku o cudzoziemcach. W przypadku posiadania podwójnego obywatelstwa, cudzoziemca traktuje się jako obywatela tego państwa, którego dokument podróży stanowił podstawę wjazdu do Polski.Noś ze sobą dokument. Bariera językowa może się okazać przeszkodą nie do pokonania. O ile język angielski jest w większości znany funkcjonariuszom Policji w stopniu umożliwiającym podstawową komunikację, o tyle inne języki mogą dostarczyć niepotrzebnych nieporozumień. Jakikolwiek dokument, w którym podana będzie pisownia imienia i nazwiska, oraz wpisana data urodzenia, będzie na pewno bardzo użyteczny w ustaleniu Twoich personaliów. Należy tu wspomnieć, że niemożność ustalenia tożsamości jest jedną z podstaw do zatrzymania osoby.",
+                        "act": [{
+                                "title": "Ustawa o cudzoziemcach art. 288",
+                                "text": "Cudzoziemiec w okresie pobytu na terytorium Rzeczypospolitej Polskiej jest obowiązany posiadać ważny dokument podróży oraz dokumenty uprawniające go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane."
+                            },
+                            {
+                                "title": "Ustawa o cudzoziemcach art. 465.1",
+                                "text": "Kto:  na żądanie uprawnionych organów nie okazuje dokumentów uprawniających go do pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli są wymagane, - podlega karze grzywny."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2. Zakłócanie spokoju i ciszy nocnej",
+                        "text": "Wszyscy zdają sobie sprawę z tego, że studenckie życie to nie tylko nauka. Zdarzają się studentom imprezy, a niektóre z nich potrafią być bardzo hałaśliwe. Może to być uciążliwe dla sąsiadów i narazić imprezowiczów na mandat karny albo wniosek o ukaranie do sądu. Warto jest uprzedzić sąsiadów o planowanym przyjęciu i zorganizować je w taki sposób, aby nie zakłócało ono ich spokoju. Hałasy, głośne rozmowy, muzyka puszczana do późnych godzin nocnych na pewno nie będą mile widziane. Każdy ma prawo do zabawy i do cieszenia się życiem, ale prawo to kończy się w miejscu, gdzie zaczyna się prawo innej osoby do spokojnego odpoczynku w swoim mieszkaniu. Niektóre osiedla posiadają również swoje regulaminy porządkowe, w których określone są godziny ciszy nocnej, zwyczajowo jest to czas od godziny 22:00 do 6:00.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "3. Czy można spożywać alkohol w miejscu publicznym?",
+                        "text": "W Polsce nie można spożywać alkoholu w miejscach publicznych, czyli takich które dostępne są dla ogółu. Oznacza to, że w praktyce nie możemy pić na przykład na ulicach, placach, w parkach, środkach komunikacji zbiorowej, na przystankach i w innych miejscach, do których jest nieograniczony dostęp. Zakaz dotyczy również wszystkich budynków, w których funkcjonuje przestrzeń publiczna i mogą to być na przykład urzędy, dworce lub teatry. Miłośników picia alkoholu pomimo zakazu czeka pouczenie, mandat karny, lub wniosek o ukaranie do sądu.Alkohol natomiast można spożywać we wszystkich miejscach, w których jest to dozwolone odpowiednią koncesją. Taką koncesję powinny posiadać wszystkie restauracje, bary i kluby oferujące alkohol. Bardzo popularne, szczególnie w okresie letnim, jest korzystanie z tzw. 'ogródków piwnych'. Większość lokali na wrocławskim Rynku posiada takie ogródki i spożywanie w nich alkoholu jest zupełnie legalne. Problem się jednak pojawi, gdybyśmy chcieli zabrać na przykład butelkę z piwem z takiego ogródka i przespacerować się wokół Rynku – wówczas popełnimy wykroczenie.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "4.Gdzie nie można palić papierosów i e-papierosów?",
+                        "text": "W Polsce obowiązuje zakaz palenia tytoniu w miejscach publicznych, takich jak między innymi:\n•    restauracje, bary, kluby muzyczne,\n•    uczelnie wyższe i szkoły,\n•    szpitale,\n•    kina, teatry, kąpieliska,\n•    hotele,\n•    przystanki komunikacji publicznej,\n•    autobusy i tramwaje,\n•    obiekty sportowe,\n•    place zabaw dla dzieci,\nZakaz dotyczy zarówno papierosów tradycyjnych, jak i elektronicznych. Szczegółowy wykaz miejsc objętych zakazem palenia tytoniu określony jest w Ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych. Oznacza to, że zakaz obowiązuje tylko w tych wymienionych punktach i papierosa można zapalić np. na ulicy albo w parku. Można ponadto palić w specjalnie wydzielonych pomieszczeniach – palarniach, jeśli znajdują się one w restauracjach, klubach, na uczelniach lub w innych miejscach.",
+                        "act": ""
+                    },
+                    {
+                        "title": "5. Posiadanie narkotyków jest w Polsce zabronione.",
+                        "text": "Posiadanie narkotyków w każdej ilości jest w Polsce zakazane. Nie ma granicy poniżej której można posiadać substancje zabronione „na własny użytek”. Posiadanie każdej, nawet najmniejszej ilości narkotyków jest przestępstwem. Pełen wykaz zakazanych środków odurzających i substancji psychotropowych znajduje się w załączniku do Ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii. Uważaj ponadto na tzw. „dopalacze” czyli środki, które mają zapewnić jak najwierniejszy efekt narkotyczny. Są one szczególnie szkodliwe ze względu na niebezpieczny dla zdrowia skład chemiczny i swoje nieprzewidywalne działanie. Dopalacze są przyczyną wielu zgonów i zatruć. Posiadanie znacznych ilości tych środków, a także handel nimi jest również przestępstwem. Jeśli ktokolwiek częstuje Cię nieznaną substancją, stanowczo odmów, a być może unikniesz wielu przykrych konsekwencji.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "6. Za co i kiedy mogę dostać mandat",
+                        "text": "Osoba, która łamie przepisy zawarte w Kodeksie wykroczeń albo w innych ustawach, może zostać ukarana mandatem karnym albo może zostać skierowany przeciwko niej wniosek o ukaranie do sądu. Najczęściej zdarza się, że policjanci nakładają mandaty za wykroczenia drogowe takie jak:\n•    przekraczanie dozwolonej prędkości,\n•    niestosowanie pasów bezpieczeństwa,\n•    nieprawidłowe zachowania wobec pieszych,\n•    niestosowanie się do sygnalizacji świetlnej.\nKarane są również wykroczenia społecznie uciążliwe, między innymi:\n•    spożywanie alkoholu w miejscu zabronionym ustawowo,\n•    zaśmiecanie miejsca dostępnego dla publiczności,\n•    zakłócanie spokoju.\nPamiętaj, że masz prawo nie zgodzić z policjantem nakładającym na Ciebie mandat karny i odmówić jego przyjęcia. Zostanie wówczas skierowany wniosek o ukaranie do sądu i w sądzie będziesz musiał wyjaśnić wszelkie okoliczności i to sędzia zdecyduje o twojej winie lub niewinności.\nPolicjanci zazwyczaj nakładają mandaty karne kredytowane. Są to mandaty, które opłaca się przelewem ze swojego rachunku, w banku lub na poczcie, na konto wskazane w mandacie. Mandat taki powinno się opłacić w terminie do 7 dni. Jeśli osoba tylko czasowo przebywa na terytorium Polski (obcokrajowcy) albo nie ma stałego miejsca zamieszkania lub pobytu, wówczas policjant nakłada mandat gotówkowy. Oznacza to, że taki mandat należy zapłacić funkcjonariuszowi na miejscu kontroli i w walucie polskiej. Ze względu na stale rosnącą popularność płatności kartami, część wrocławskich funkcjonariuszy wyposażona jest w przenośne terminale płatnicze. Jeśli natomiast ukarany nie ma przy sobie gotówki, nie może też pobrać pieniędzy z bankomatu, zapłacić w terminalu albo wymienić w kantorze - stosuje się wtedy postępowanie przyśpieszone. Sprawca wykroczenia jest zatrzymywany i doprowadzany do sądu.",
+                        "act": ""
+                    },
+                    {
+                        "title": "7. Czy mogę prowadzić samochód po spożyciu alkoholu?",
+                        "text": "Kierowanie pojazdem w stanie nietrzeźwości jest w Polsce przestępstwem, jeśli zawartość alkoholu w twojej krwi przekracza albo prowadzi do stężenia przekraczającego 0,5 promila. Również mniejsza ilość może narazić Cię na odpowiedzialność, bo stężenie alkoholu we krwi od 0,2 do 0,5 promila jest wykroczeniem. Nie eksperymentuj z internetowymi kalkulatorami i nie obliczaj, jaką ilośc alkoholu możesz wypić i jeszcze prowadzić. Stężenie alkoholu zależy od wagi, płci i innych czynników, dlatego najlepiej trzymać się zasady „piłeś – nie jedź!” Kierowanie pojazdem w stanie nietrzeźwości jest zagrożone karą pozbawienia wolności do 2 lat, wysoką grzywną oraz zakazem prowadzenia pojazdów. W przypadku mniejszego stężenia, czyli popełnienia wykroczenia polegającego na prowadzeniu pojazdu w stanie po spożyciu alkoholu (od 0,2 do 0,5 promila) również grożą surowe konsekwencje. W tym przypadku sprawcy grozi grzywna do 5 tysięcy złotych, areszt i czasowa utrata prawa jazdy. Nie opłaca się więc jeździć po alkoholu. Należy również pamiętać, że odpowiedzialność karna znacznie rośnie w momencie, gdy spowodujemy wypadek. Zawartość we krwi poniżej 0,2 promila – alkohol był spożywany, ale nie ma przestępstwa lub wykroczenia; 0,2 – 0,5 promila - stan po użyciu alkoholu – wykroczenie; powyżej 0,5 promila – stan nietrzeźwości – przestępstwo.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "8. Co to jest WrOPON – na wszelki wypadek",
+                        "text": "Po zakrapianej imprezie można mieć przymusowy nocleg we Wrocławskim Ośrodku Pomocy Osobom Nietrzeźwym, czyli w dawnej Izbie Wytrzeźwień. Jeśli po wyjściu z imprezy będziesz tak pijany, że swoim zachowaniem stworzysz zagrożenie dla siebie albo dla innych, na przykład będziesz się przewracał na chodniku albo zaśniesz na trawniku w pobliżu ruchliwej ulicy, szczególnie jeśli na dworze będzie niska temperatura - funkcjonariusze straży miejskiej albo Policji mogą odwieźć Cię w bardziej „bezpieczne” miejsce. Będziesz tam musiał wytrzeźwieć i dopiero wtedy zostaniesz wypuszczony. Do WrOPON możesz również trafić jeśli jesteś po alkoholu agresywny w stosunku do innych osób.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "9. Co to jest przestępstwo z nienawiści?",
+                        "text": "W ostatnich latach bardzo wyraźnie przybywa obcokrajowców osiedlających się czasowo lub na stałe w Polsce. Pamiętać należy, że osoby wyróżniające się na tle ogółu ze względu na odrębną narodowość, rasę, wyznanie religijne, orientację seksualną, czy też niepełnosprawność – mogą stać się ofiarami przestępstwa. Każdy człowiek, niezależnie od narodowości, ma prawo czuć się bezpiecznie. Zarówno obcokrajowca, jak i obywatela narodowości polskiej obowiązują te same przepisy prawa i ochrona. Przestępstwa z nienawiści mogą przybierać różną formę, ale mają one jeden wspólny mianownik - ofiara przestępstwa jest wybierana ze względu na swoje cechy, odróżniające ją od innych. Mogą to być akty wandalizmu, pobicia, naruszenie nietykalności osobistej, stosowanie gróźb i inne czyny, których motywem jest czyjaś odmienność. Warto również przytoczyć treść artykułu 257 kodeksu karnego: Kto publicznie znieważa grupę ludności albo poszczególną osobę z powodu jej przynależności narodowej, etnicznej, wyznaniowej albo z powodu jej bezwyznaniowości lub z takich powodów narusza nietykalność cielesną innej osoby podlega karze pozbawienia wolności do lat 3. Godność człowieka i grup ludności jest w Polsce prawnie chroniona przed poniżeniem, żaden przejaw rasizmu, ksenofobii nie może być zbagatelizowany, nawet jeśli dotyczy to wpisu w Internecie. Wszystkie przestępstwa z nienawiści powinny być zgłaszane na Policję.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    },
+                    {
+                        "title": "10.Co to jest nieobyczajny wybryk?",
+                        "text": "Nieobyczajnym wybrykiem jest nieprzyzwoite zachowanie, takie które odbiega od przyjętych norm postępowania. Mogą to być różne zachowania: zbyt frywolne odsłanianie swojego ciała w miejscach publicznych, załatwianie potrzeb fizjologicznych na oczach spacerowiczów, spanie na przystanku w taki sposób, że powoduje to zgorszenie innych osób, każdy wybryk daleki od norm kulturalnego zachowania. Pamiętajmy ponadto, że we Wrocławiu nie możemy się kąpać w fontannach miejskich. Miejski monitoring bardzo szybko wychwyci amatorów takiej kąpieli i równie szybko spotkają się oni ze stróżami prawa. Fontanny są to instalacje dekoracyjne, nie służą kąpielom. Woda w nich krąży w obiegu zamkniętym, dlatego mogą być one niebezpieczne dla zdrowia.",
+                        "act": [{
+                            "title": "",
+                            "text": ""
+                        }]
+                    }
+                ]
+            }
+        },
+        {
+            "language": "EN",
+            "contents": {
+                "title": "Laws",
+                "subtitle": "What should I know about law in Poland?",
+                "contents": [{
+                    "title": "1.",
+                    "text": ".",
+                    "act": [{
+                        "title": "art. 288",
+                        "text": "."
+                    }]
+                }]
+            }
+        }
+    ]
+}

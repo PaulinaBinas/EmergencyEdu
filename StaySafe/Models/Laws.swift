@@ -8,6 +8,15 @@
 
 import Foundation
 
+struct LangList : Decodable {
+    var languages: [LangLawList]
+}
+
+struct LangLawList : Decodable {
+    var language: String
+    var contents: LawsList
+}
+
 struct LawsList : Decodable {
     var title: String
     var subtitle: String

@@ -15,8 +15,7 @@ struct ContentView: View {
  
     var body: some View {
         TabbedView(selection: $selection){
-            Text(menuList.menuElements[0].title)
-                .font(.title)
+            AdvicesView()
                 .tabItem {
                     VStack {
                         Image("first")
@@ -24,7 +23,7 @@ struct ContentView: View {
                     }
                 }
                 .tag(0)
-            Text(menuList.menuElements[1].title)
+            LawsView()
                 .font(.title)
                 .tabItem {
                     VStack {
@@ -33,7 +32,7 @@ struct ContentView: View {
                     }
                 }
                 .tag(1)
-            Text(menuList.menuElements[2].title)
+            DifficultSituationsView()
                 .font(.title)
                 .tabItem {
                     VStack {
@@ -42,7 +41,7 @@ struct ContentView: View {
                     }
                 }
                 .tag(2)
-            Text(menuList.menuElements[3].title)
+            EmergencyNumbersView()
                 .font(.title)
                 .tabItem {
                     VStack {
@@ -51,7 +50,7 @@ struct ContentView: View {
                     }
                 }
                 .tag(3)
-            Text(menuList.menuElements[4].title)
+            InstitutionsView()
                 .font(.title)
                 .tabItem {
                     VStack {

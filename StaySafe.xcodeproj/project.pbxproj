@@ -8,11 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		A144DEB922FB172900A15921 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A144DEB822FB172900A15921 /* Contents.json */; settings = {ASSET_TAGS = (contents, ); }; };
-		A14BC33C2305E7D400D02376 /* LawsPL.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC3382305A09A00D02376 /* LawsPL.json */; };
-		A14BC3402305E9A700D02376 /* MenuPL.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC33F2305E9A700D02376 /* MenuPL.json */; };
+		A14BC33C2305E7D400D02376 /* Laws.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC3382305A09A00D02376 /* Laws.json */; };
+		A14BC3402305E9A700D02376 /* Menu.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC33F2305E9A700D02376 /* Menu.json */; };
 		A14BC3422305E9FC00D02376 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC3412305E9FC00D02376 /* Menu.swift */; };
 		A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33A2305CFF100D02376 /* DataLoader.swift */; };
 		A14BC3442305EBD000D02376 /* Laws.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33B2305CFF100D02376 /* Laws.swift */; };
+		A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB2230B033A0013D2B1 /* AdvicesView.swift */; };
+		A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB4230B05350013D2B1 /* LawsView.swift */; };
+		A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */; };
+		A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */; };
+		A1521EBB230B05AD0013D2B1 /* InstitutionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */; };
+		A1521EBD230B07BF0013D2B1 /* Advice.json in Resources */ = {isa = PBXBuildFile; fileRef = A1521EBC230B07BF0013D2B1 /* Advice.json */; };
 		A155A3192304C9B6004BBF4C /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = A155A3182304C9B6004BBF4C /* test.json */; };
 		A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB322F36E6B002BF935 /* AppDelegate.swift */; };
 		A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB522F36E6B002BF935 /* SceneDelegate.swift */; };
@@ -43,11 +49,17 @@
 
 /* Begin PBXFileReference section */
 		A144DEB822FB172900A15921 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.json; };
-		A14BC3382305A09A00D02376 /* LawsPL.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = LawsPL.json; path = ../LawsPL.json; sourceTree = "<group>"; };
+		A14BC3382305A09A00D02376 /* Laws.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Laws.json; path = ../Laws.json; sourceTree = "<group>"; };
 		A14BC33A2305CFF100D02376 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 		A14BC33B2305CFF100D02376 /* Laws.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Laws.swift; sourceTree = "<group>"; };
-		A14BC33F2305E9A700D02376 /* MenuPL.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = MenuPL.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/MenuPL.json; sourceTree = "<group>"; };
+		A14BC33F2305E9A700D02376 /* Menu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Menu.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Menu.json; sourceTree = "<group>"; };
 		A14BC3412305E9FC00D02376 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/Menu.swift; sourceTree = "<group>"; };
+		A1521EB2230B033A0013D2B1 /* AdvicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AdvicesView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/AdvicesView.swift; sourceTree = "<group>"; };
+		A1521EB4230B05350013D2B1 /* LawsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawsView.swift; sourceTree = "<group>"; };
+		A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DifficultSituationsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/DifficultSituationsView.swift; sourceTree = "<group>"; };
+		A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmergencyNumbersView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/EmergencyNumbersView.swift; sourceTree = "<group>"; };
+		A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InstitutionsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/InstitutionsView.swift; sourceTree = "<group>"; };
+		A1521EBC230B07BF0013D2B1 /* Advice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Advice.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Advice.json; sourceTree = "<group>"; };
 		A155A3182304C9B6004BBF4C /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = test.json; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/test.json; sourceTree = "<group>"; };
 		A19CECB022F36E6B002BF935 /* StaySafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaySafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19CECB322F36E6B002BF935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -93,9 +105,10 @@
 		A144DEB722FB172900A15921 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A14BC3382305A09A00D02376 /* LawsPL.json */,
+				A14BC3382305A09A00D02376 /* Laws.json */,
 				A144DEB822FB172900A15921 /* Contents.json */,
-				A14BC33F2305E9A700D02376 /* MenuPL.json */,
+				A14BC33F2305E9A700D02376 /* Menu.json */,
+				A1521EBC230B07BF0013D2B1 /* Advice.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -138,6 +151,11 @@
 				A19CECB322F36E6B002BF935 /* AppDelegate.swift */,
 				A19CECB522F36E6B002BF935 /* SceneDelegate.swift */,
 				A19CECB722F36E6B002BF935 /* ContentView.swift */,
+				A1521EB2230B033A0013D2B1 /* AdvicesView.swift */,
+				A1521EB4230B05350013D2B1 /* LawsView.swift */,
+				A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */,
+				A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */,
+				A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */,
 				A19CECB922F36E6D002BF935 /* Assets.xcassets */,
 				A19CECBE22F36E6D002BF935 /* LaunchScreen.storyboard */,
 				A19CECC122F36E6D002BF935 /* Info.plist */,
@@ -281,12 +299,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				A19CECC022F36E6D002BF935 /* LaunchScreen.storyboard in Resources */,
-				A14BC3402305E9A700D02376 /* MenuPL.json in Resources */,
+				A14BC3402305E9A700D02376 /* Menu.json in Resources */,
 				A19CECBD22F36E6D002BF935 /* Preview Assets.xcassets in Resources */,
-				A14BC33C2305E7D400D02376 /* LawsPL.json in Resources */,
+				A14BC33C2305E7D400D02376 /* Laws.json in Resources */,
 				A19CECBA22F36E6D002BF935 /* Assets.xcassets in Resources */,
 				A144DEB922FB172900A15921 /* Contents.json in Resources */,
 				A155A3192304C9B6004BBF4C /* test.json in Resources */,
+				A1521EBD230B07BF0013D2B1 /* Advice.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,8 +330,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1521EBB230B05AD0013D2B1 /* InstitutionsView.swift in Sources */,
 				A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */,
+				A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */,
+				A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */,
 				A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */,
+				A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */,
+				A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */,
 				A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */,
 				A14BC3422305E9FC00D02376 /* Menu.swift in Sources */,
 				A14BC3442305EBD000D02376 /* Laws.swift in Sources */,

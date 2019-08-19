@@ -1,0 +1,22 @@
+{
+    "title": "Porady",
+    "subtitle": "Wrocław to przyjazne miasto młodych ludzi. Mogą się jednak, tak jak wszędzie, zdarzyć pewne trudne sytuacje. Zapraszamy Cię do obejrzenia kilku porad, które na pewno będą dla Ciebie użyteczne:",
+    "contents": [
+        {
+            "title": "Porada nr #1:",
+            "text": "Jeśli wypłacasz gotówkę z bankomatu – chroń swój numer PIN. Najlepiej zasłoń klawiaturę dłonią, aby nikt nie zobaczył Twojego numeru. Jeśli już wypłacisz gotówkę, nie przeliczaj jej na widoku."
+        },
+        {
+            "title": "Porada nr #2:",
+            "text": "W środkach transportu publicznego: tramwajach i autobusach wybieraj, w miarę możliwości, miejsce blisko kierowcy. Będzie on mógł odpowiednio zareagować w sytuacji, gdybyś potrzebował pomocy lub wskazać Ci właściwy przystanek."
+        },
+        {
+            "title": "Porada nr #3:",
+            "text": "Zaplanuj swoją pieszą trasę tak, aby wybierać większe i oświetlone ulice. Ciemne podwórka albo przejścia podziemne mogą być niebezpieczne, szczególnie wieczorami."
+        },
+        {
+            "title": "Porada nr #4:",
+            "text": "Pamiętaj aby wszelkie umowy dotyczące wynajmu pokoju/mieszkania zawierać w formie papierowej. Powinieneś jeden egzemplarz umowy otrzymać dla siebie. Jeśli właściciel pobiera kaucję, również powinieneś otrzymać potwierdzenie na kwotę wpłaconej kaucji, abyś nie miał problemów z jej zwrotem. Jeśli umowa na najem lokalu została zawarta na czas nieoznaczony, a czynsz jest płatny miesięcznie, wtedy umowę można wypowiedzieć na trzy miesiące naprzód na koniec miesiąca kalendarzowego."
+        }
+    ]
+}

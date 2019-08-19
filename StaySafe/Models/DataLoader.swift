@@ -10,9 +10,13 @@ import UIKit
 import SwiftUI
 import CoreLocation
 
-var lawsList: LawsList = load("LawsPL.json")
+var lawsList: LangList = load("Laws.json")
 
-var menuList: MenuList = load("MenuPL.json")
+var lawsListPL: LawsList! = getLawListInLang(language: "PL")
+
+var lawsListEN: LawsList! = getLawListInLang(language: "EN")
+
+var menuList: MenuList = load("Menu.json")
 
 func load<T: Decodable>(_ filename: String, as type: T.Type = T.self) -> T {
     let data: Data
@@ -34,4 +38,13 @@ func load<T: Decodable>(_ filename: String, as type: T.Type = T.self) -> T {
     } catch {
         fatalError("Couldn't parse \(filename) as \(T.self):\n\(error)")
     }
+}
+
+func getLawListInLang(language: String) -> LawsList? {
+    for lang in lawsList.languages {
+            if(lang.language == language){
+                return lang.contents
+            }
+        }
+    return nil
 }
