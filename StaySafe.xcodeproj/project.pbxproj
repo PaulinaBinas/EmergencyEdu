@@ -19,6 +19,8 @@
 		A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */; };
 		A1521EBB230B05AD0013D2B1 /* InstitutionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */; };
 		A1521EBD230B07BF0013D2B1 /* Advice.json in Resources */ = {isa = PBXBuildFile; fileRef = A1521EBC230B07BF0013D2B1 /* Advice.json */; };
+		A1555444230DA71E009EBB90 /* LawsNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */; };
+		A1555446230DA9D6009EBB90 /* LawDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1555445230DA9D6009EBB90 /* LawDetail.swift */; };
 		A155A3192304C9B6004BBF4C /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = A155A3182304C9B6004BBF4C /* test.json */; };
 		A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB322F36E6B002BF935 /* AppDelegate.swift */; };
 		A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB522F36E6B002BF935 /* SceneDelegate.swift */; };
@@ -60,6 +62,8 @@
 		A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmergencyNumbersView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/EmergencyNumbersView.swift; sourceTree = "<group>"; };
 		A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InstitutionsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/InstitutionsView.swift; sourceTree = "<group>"; };
 		A1521EBC230B07BF0013D2B1 /* Advice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Advice.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Advice.json; sourceTree = "<group>"; };
+		A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawsNavigationRow.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawsNavigationRow.swift; sourceTree = "<group>"; };
+		A1555445230DA9D6009EBB90 /* LawDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawDetail.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawDetail.swift; sourceTree = "<group>"; };
 		A155A3182304C9B6004BBF4C /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = test.json; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/test.json; sourceTree = "<group>"; };
 		A19CECB022F36E6B002BF935 /* StaySafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaySafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19CECB322F36E6B002BF935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -153,6 +157,7 @@
 				A19CECB722F36E6B002BF935 /* ContentView.swift */,
 				A1521EB2230B033A0013D2B1 /* AdvicesView.swift */,
 				A1521EB4230B05350013D2B1 /* LawsView.swift */,
+				A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */,
 				A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */,
 				A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */,
 				A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */,
@@ -161,6 +166,7 @@
 				A19CECC122F36E6D002BF935 /* Info.plist */,
 				A19CECBB22F36E6D002BF935 /* Preview Content */,
 				A155A3182304C9B6004BBF4C /* test.json */,
+				A1555445230DA9D6009EBB90 /* LawDetail.swift */,
 			);
 			path = StaySafe;
 			sourceTree = "<group>";
@@ -335,10 +341,12 @@
 				A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */,
 				A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */,
 				A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */,
+				A1555444230DA71E009EBB90 /* LawsNavigationRow.swift in Sources */,
 				A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */,
 				A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */,
 				A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */,
 				A14BC3422305E9FC00D02376 /* Menu.swift in Sources */,
+				A1555446230DA9D6009EBB90 /* LawDetail.swift in Sources */,
 				A14BC3442305EBD000D02376 /* Laws.swift in Sources */,
 				A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */,
 			);

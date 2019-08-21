@@ -9,21 +9,31 @@
 import SwiftUI
 
 struct LawsView: View {
-    var body: some View {
-        VStack {
+    
+    var navBar: some View {
+        VStack{
             Text(lawsListPL.title)
                 .font(.title)
+                .multilineTextAlignment(.center)
+                .padding(.leading)
+                .padding(.top)
             Text(lawsListPL.subtitle)
                 .font(.subheadline)
-            List(lawsListPL.contents, id: \.title) { content in
-                Text(content.title)
-                    .fontWeight(.regular)
-                    .lineLimit(2)
-                    .font(.headline)
-                    
+                .multilineTextAlignment(.center)
+                .padding(.leading)
+        }
+    }
+    
+    var body: some View {
+        VStack {
+            NavigationView {
+                List(lawsListPL.contents, id:\.title) { element in
+                    NavigationLink(destination: LawDetail(entry: element)) {
+                        LawsNavigationRow(content: element)
+                    }
+                }.navigationBarItems(leading: navBar)
             }
         }
-                
     }
 }
 
