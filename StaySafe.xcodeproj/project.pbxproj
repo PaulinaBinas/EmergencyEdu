@@ -13,6 +13,8 @@
 		A14BC3422305E9FC00D02376 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC3412305E9FC00D02376 /* Menu.swift */; };
 		A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33A2305CFF100D02376 /* DataLoader.swift */; };
 		A14BC3442305EBD000D02376 /* Laws.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33B2305CFF100D02376 /* Laws.swift */; };
+		A1520622230EE0F70022BB6A /* EmergencyNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */; };
+		A1520624230EE16E0022BB6A /* EmergencyNumbers.json in Resources */ = {isa = PBXBuildFile; fileRef = A1520623230EE16E0022BB6A /* EmergencyNumbers.json */; };
 		A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB2230B033A0013D2B1 /* AdvicesView.swift */; };
 		A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB4230B05350013D2B1 /* LawsView.swift */; };
 		A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */; };
@@ -56,6 +58,8 @@
 		A14BC33B2305CFF100D02376 /* Laws.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Laws.swift; sourceTree = "<group>"; };
 		A14BC33F2305E9A700D02376 /* Menu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Menu.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Menu.json; sourceTree = "<group>"; };
 		A14BC3412305E9FC00D02376 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/Menu.swift; sourceTree = "<group>"; };
+		A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmergencyNumbers.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/EmergencyNumbers.swift; sourceTree = "<group>"; };
+		A1520623230EE16E0022BB6A /* EmergencyNumbers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = EmergencyNumbers.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/EmergencyNumbers.json; sourceTree = "<group>"; };
 		A1521EB2230B033A0013D2B1 /* AdvicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AdvicesView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/AdvicesView.swift; sourceTree = "<group>"; };
 		A1521EB4230B05350013D2B1 /* LawsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawsView.swift; sourceTree = "<group>"; };
 		A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DifficultSituationsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/DifficultSituationsView.swift; sourceTree = "<group>"; };
@@ -113,6 +117,7 @@
 				A144DEB822FB172900A15921 /* Contents.json */,
 				A14BC33F2305E9A700D02376 /* Menu.json */,
 				A1521EBC230B07BF0013D2B1 /* Advice.json */,
+				A1520623230EE16E0022BB6A /* EmergencyNumbers.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 				A14BC33B2305CFF100D02376 /* Laws.swift */,
 				A14BC33A2305CFF100D02376 /* DataLoader.swift */,
 				A14BC3412305E9FC00D02376 /* Menu.swift */,
+				A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -306,6 +312,7 @@
 			files = (
 				A19CECC022F36E6D002BF935 /* LaunchScreen.storyboard in Resources */,
 				A14BC3402305E9A700D02376 /* Menu.json in Resources */,
+				A1520624230EE16E0022BB6A /* EmergencyNumbers.json in Resources */,
 				A19CECBD22F36E6D002BF935 /* Preview Assets.xcassets in Resources */,
 				A14BC33C2305E7D400D02376 /* Laws.json in Resources */,
 				A19CECBA22F36E6D002BF935 /* Assets.xcassets in Resources */,
@@ -348,6 +355,7 @@
 				A14BC3422305E9FC00D02376 /* Menu.swift in Sources */,
 				A1555446230DA9D6009EBB90 /* LawDetail.swift in Sources */,
 				A14BC3442305EBD000D02376 /* Laws.swift in Sources */,
+				A1520622230EE0F70022BB6A /* EmergencyNumbers.swift in Sources */,
 				A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -517,6 +525,7 @@
 				DEVELOPMENT_ASSET_PATHS = "StaySafe/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = StaySafe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -536,6 +545,7 @@
 				DEVELOPMENT_ASSET_PATHS = "StaySafe/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = StaySafe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

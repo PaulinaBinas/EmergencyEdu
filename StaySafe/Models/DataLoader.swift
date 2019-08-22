@@ -12,9 +12,15 @@ import CoreLocation
 
 var lawsList: LangList = load("Laws.json")
 
+var emergencyNumbers: NumbersLangList = load("EmergencyNumbers.json")
+
 var lawsListPL: LawsList! = getLawListInLang(language: "PL")
 
 var lawsListEN: LawsList! = getLawListInLang(language: "EN")
+
+var emergencyNumbersPL: [EmergencyNumbers]! = getEmergencyNumbersInLang(language: "PL")
+
+var emergencyNumbersEN: [EmergencyNumbers]! = getEmergencyNumbersInLang(language: "EN")
 
 var menuList: MenuList = load("Menu.json")
 
@@ -42,6 +48,15 @@ func load<T: Decodable>(_ filename: String, as type: T.Type = T.self) -> T {
 
 func getLawListInLang(language: String) -> LawsList? {
     for lang in lawsList.languages {
+            if(lang.language == language){
+                return lang.contents
+            }
+        }
+    return nil
+}
+
+func getEmergencyNumbersInLang(language: String) -> [EmergencyNumbers]? {
+    for lang in emergencyNumbers.languages {
             if(lang.language == language){
                 return lang.contents
             }

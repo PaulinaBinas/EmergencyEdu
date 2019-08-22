@@ -1,0 +1,46 @@
+{
+    "languages": [{
+        "language": "PL",
+        "contents": [
+            {
+                "number": "112 ",
+                "description": "Ogólnoeuropejski numer alarmowy"
+            },
+            {
+                "number": "999",
+                "description": "Pogotowie ratunkowe"
+            },
+            {
+                "number": "998",
+                "description": "Straż pożarna"
+            },
+            {
+                "number": "997",
+                "description": "Policja"
+            }
+        ]
+        
+    },
+    {
+        "language": "EN",
+        "contents": [
+            {
+                "number": "112",
+                "description": "Common emergency number"
+            },
+            {
+                "number": "999",
+                "description": "Ambulance"
+            },
+            {
+                "number": "998",
+                "description": "Fire fighters"
+            },
+            {
+                "number": "997",
+                "description": "Police"
+            }
+        ]
+        
+    }]
+}
