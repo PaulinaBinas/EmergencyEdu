@@ -10,12 +10,20 @@ import SwiftUI
 
 struct EmergencyNumbersView: View {
     
+    var list: NumbersLang {
+        if(language == "PL") {
+            return emergencyNumbersPL
+        } else {
+            return emergencyNumbersEN
+        }
+    }
+    
     var body: some View {
         VStack {
-            Text("Emergency numbers")
+            Text(list.title)
                 .font(.title)
                 .padding()
-            List(emergencyNumbersPL, id:\.number) { entry in
+            List(list.contents, id:\.number) { entry in
                 HStack{
                     Text(entry.number)
                         .fontWeight(.semibold)

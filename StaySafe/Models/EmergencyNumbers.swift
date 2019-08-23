@@ -14,6 +14,7 @@ struct NumbersLangList : Decodable {
 
 struct NumbersLang : Decodable {
     var language: String
+    var title: String
     var contents: [EmergencyNumbers]
 }
 

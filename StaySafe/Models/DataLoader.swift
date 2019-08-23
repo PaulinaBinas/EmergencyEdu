@@ -18,9 +18,9 @@ var lawsListPL: LawsList! = getLawListInLang(language: "PL")
 
 var lawsListEN: LawsList! = getLawListInLang(language: "EN")
 
-var emergencyNumbersPL: [EmergencyNumbers]! = getEmergencyNumbersInLang(language: "PL")
+var emergencyNumbersPL: NumbersLang! = getEmergencyNumbersInLang(language: "PL")
 
-var emergencyNumbersEN: [EmergencyNumbers]! = getEmergencyNumbersInLang(language: "EN")
+var emergencyNumbersEN: NumbersLang! = getEmergencyNumbersInLang(language: "EN")
 
 var menuList: MenuList = load("Menu.json")
 
@@ -55,10 +55,10 @@ func getLawListInLang(language: String) -> LawsList? {
     return nil
 }
 
-func getEmergencyNumbersInLang(language: String) -> [EmergencyNumbers]? {
+func getEmergencyNumbersInLang(language: String) -> NumbersLang? {
     for lang in emergencyNumbers.languages {
             if(lang.language == language){
-                return lang.contents
+                return lang
             }
         }
     return nil

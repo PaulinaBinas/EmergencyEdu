@@ -10,14 +10,22 @@ import SwiftUI
 
 struct LawsView: View {
     
+    var list: LawsList {
+        if(language == "PL") {
+            return lawsListPL
+        } else {
+            return lawsListEN
+        }
+    }
+    
     var navBar: some View {
         VStack{
-            Text(lawsListPL.title)
+            Text(list.title)
                 .font(.title)
                 .multilineTextAlignment(.center)
                 .padding(.leading)
                 .padding(.top)
-            Text(lawsListPL.subtitle)
+            Text(list.subtitle)
                 .font(.subheadline)
                 .multilineTextAlignment(.center)
                 .padding(.leading)
@@ -27,7 +35,7 @@ struct LawsView: View {
     var body: some View {
         VStack {
             NavigationView {
-                List(lawsListPL.contents, id:\.title) { element in
+                List(list.contents, id:\.title) { element in
                     NavigationLink(destination: LawDetail(entry: element)) {
                         LawsNavigationRow(content: element)
                     }
