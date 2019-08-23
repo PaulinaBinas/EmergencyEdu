@@ -22,7 +22,11 @@ var emergencyNumbersPL: NumbersLang! = getEmergencyNumbersInLang(language: "PL")
 
 var emergencyNumbersEN: NumbersLang! = getEmergencyNumbersInLang(language: "EN")
 
-var menuList: MenuList = load("Menu.json")
+var menuList: MenuLanguages = load("Menu.json")
+
+var menuListPL: MenuList! = getMenuInLang(language: "PL")
+
+var menuListEN: MenuList! = getMenuInLang(language: "EN")
 
 func load<T: Decodable>(_ filename: String, as type: T.Type = T.self) -> T {
     let data: Data
@@ -61,5 +65,14 @@ func getEmergencyNumbersInLang(language: String) -> NumbersLang? {
                 return lang
             }
         }
+    return nil
+}
+
+func getMenuInLang(language: String) -> MenuList? {
+    for lang in menuList.languages {
+        if(lang.language == language){
+            return lang
+        }
+    }
     return nil
 }

@@ -1,24 +1,54 @@
 {
-    "menuElements": [
+    "languages": [
         {
-            "title": "Porady",
-            "tag": 0
+            "language": "PL",
+            "menuElements": [
+                {
+                    "title": "Porady",
+                    "tag": 0
+                },
+                {
+                    "title": "Przepisy",
+                    "tag": 1
+                },
+                {
+                    "title": "Trudne sytuacje",
+                    "tag": 2
+                },
+                {
+                    "title": "Numery alarmowe",
+                    "tag": 3
+                },
+                {
+                    "title": "Instytucje",
+                    "tag": 4
+                }
+            ]
         },
         {
-            "title": "Przepisy",
-            "tag": 1
-        },
-        {
-            "title": "Trudne sytuacje",
-            "tag": 2
-        },
-        {
-            "title": "Numery alarmowe",
-            "tag": 3
-        },
-        {
-            "title": "Instytucje",
-            "tag": 4
+            "language": "EN",
+            "menuElements": [
+                {
+                    "title": "Advice",
+                    "tag": 0
+                },
+                {
+                    "title": "Law",
+                    "tag": 1
+                },
+                {
+                    "title": "Difficult situations",
+                    "tag": 2
+                },
+                {
+                    "title": "Emergency",
+                    "tag": 3
+                },
+                {
+                    "title": "Institutions",
+                    "tag": 4
+                }
+            ]
         }
     ]
 }

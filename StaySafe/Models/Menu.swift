@@ -8,7 +8,12 @@
 
 import Foundation
 
+struct MenuLanguages: Decodable {
+    var languages: [MenuList]
+}
+
 struct MenuList: Decodable {
+    var language: String
     var menuElements: [MenuElement]
 }
 
