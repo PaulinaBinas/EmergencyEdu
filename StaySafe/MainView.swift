@@ -40,7 +40,7 @@ struct MainView: View {
                 AdvicesView()
                 .tabItem {
                     VStack {
-                        Image("first")
+                        Image("advice")
                         Text(list.menuElements[0].title)
                     }
                 }
@@ -49,7 +49,7 @@ struct MainView: View {
                 .font(.title)
                 .tabItem {
                     VStack {
-                        Image("second")
+                        Image("law")
                         Text(list.menuElements[1].title)
                     }
                 }
@@ -58,7 +58,7 @@ struct MainView: View {
                 .font(.title)
                 .tabItem {
                     VStack {
-                        Image("first")
+                        Image("trouble")
                         Text(list.menuElements[2].title)
                     }
                 }
@@ -76,7 +76,7 @@ struct MainView: View {
                 .font(.title)
                 .tabItem {
                     VStack {
-                        Image("first")
+                        Image("institutions")
                         Text(list.menuElements[4].title)
                     }
                 }
