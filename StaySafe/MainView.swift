@@ -36,7 +36,7 @@ struct MainView: View {
                         .padding(.trailing)
                 }.padding(.top)
             }
-            TabbedView(selection: $selection){
+            TabView(selection: $selection){
                 AdvicesView()
                 .tabItem {
                     VStack {

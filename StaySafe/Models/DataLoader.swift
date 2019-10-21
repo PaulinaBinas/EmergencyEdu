@@ -22,6 +22,10 @@ var emergencyNumbersPL: NumbersLang! = getEmergencyNumbersInLang(language: "PL")
 
 var emergencyNumbersEN: NumbersLang! = getEmergencyNumbersInLang(language: "EN")
 
+var adviceList: AdviceLang = load("Advice.json")
+
+var situationsList: SituationsLang = load("DifficultSituations.json")
+var institutionList: InstitutionsLang = load("Institutions.json")
 var menuList: MenuLanguages = load("Menu.json")
 
 var menuListPL: MenuList! = getMenuInLang(language: "PL")

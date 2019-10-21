@@ -7,24 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F0776352316701400BBA3B6 /* AdvicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776342316701400BBA3B6 /* AdvicesView.swift */; };
+		9F0776372316701F00BBA3B6 /* LawsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776362316701F00BBA3B6 /* LawsView.swift */; };
+		9F0776392316702900BBA3B6 /* LawsNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776382316702900BBA3B6 /* LawsNavigationRow.swift */; };
+		9F07763B2316703100BBA3B6 /* DifficultSituationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F07763A2316703100BBA3B6 /* DifficultSituationsView.swift */; };
+		9F07763D2316704100BBA3B6 /* EmergencyNumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F07763C2316704100BBA3B6 /* EmergencyNumbersView.swift */; };
+		9F07763F2316704E00BBA3B6 /* InstitutionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F07763E2316704E00BBA3B6 /* InstitutionsView.swift */; };
+		9F0776412316706200BBA3B6 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F0776402316706200BBA3B6 /* test.json */; };
+		9F0776432316706D00BBA3B6 /* LawDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776422316706D00BBA3B6 /* LawDetail.swift */; };
+		9F0776452316707100BBA3B6 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776442316707100BBA3B6 /* MainView.swift */; };
+		9F0776472316707E00BBA3B6 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776462316707E00BBA3B6 /* Menu.swift */; };
+		9F0776492316708400BBA3B6 /* EmergencyNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0776482316708400BBA3B6 /* EmergencyNumbers.swift */; };
+		9F0776872316724D00BBA3B6 /* Menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F0776862316724D00BBA3B6 /* Menu.json */; };
+		9F0776892316725400BBA3B6 /* Advice.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F0776882316725300BBA3B6 /* Advice.json */; };
+		9F07768B2316725C00BBA3B6 /* EmergencyNumbers.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F07768A2316725C00BBA3B6 /* EmergencyNumbers.json */; };
+		9F07768D231726CC00BBA3B6 /* Advices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F07768C231726CC00BBA3B6 /* Advices.swift */; };
+		9F07768F2317F24100BBA3B6 /* AdvicesDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F07768E2317F24100BBA3B6 /* AdvicesDetail.swift */; };
+		9F2846E0234B69330009E58B /* InstitutionsDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2846DF234B69330009E58B /* InstitutionsDetail.swift */; };
+		9F2846E2234B6B660009E58B /* InstitutionsNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2846E1234B6B660009E58B /* InstitutionsNavigationRow.swift */; };
+		9F2846E4234B800A0009E58B /* InstitutionMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2846E3234B800A0009E58B /* InstitutionMapView.swift */; };
+		9F96DF1F231ED8DB001F4027 /* AdvicesNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96DF1E231ED8DB001F4027 /* AdvicesNavigationRow.swift */; };
+		9F96DF21231EDDC8001F4027 /* DifficultSituations.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F96DF20231EDDC8001F4027 /* DifficultSituations.json */; };
+		9F96DF23231EDE10001F4027 /* DifficultSituations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96DF22231EDE10001F4027 /* DifficultSituations.swift */; };
+		9F96DF25231EDE7C001F4027 /* SituationsDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96DF24231EDE7C001F4027 /* SituationsDetail.swift */; };
+		9F96DF27231EDE8B001F4027 /* SituationsNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96DF26231EDE8B001F4027 /* SituationsNavigationRow.swift */; };
+		9FEA34B8234510EE0027D0EA /* Institutions.json in Resources */ = {isa = PBXBuildFile; fileRef = 9FEA34B7234510EE0027D0EA /* Institutions.json */; };
+		9FEA34BA23451C600027D0EA /* Institutions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEA34B923451C600027D0EA /* Institutions.swift */; };
 		A144DEB922FB172900A15921 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A144DEB822FB172900A15921 /* Contents.json */; settings = {ASSET_TAGS = (contents, ); }; };
 		A14BC33C2305E7D400D02376 /* Laws.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC3382305A09A00D02376 /* Laws.json */; };
-		A14BC3402305E9A700D02376 /* Menu.json in Resources */ = {isa = PBXBuildFile; fileRef = A14BC33F2305E9A700D02376 /* Menu.json */; };
-		A14BC3422305E9FC00D02376 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC3412305E9FC00D02376 /* Menu.swift */; };
 		A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33A2305CFF100D02376 /* DataLoader.swift */; };
 		A14BC3442305EBD000D02376 /* Laws.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14BC33B2305CFF100D02376 /* Laws.swift */; };
-		A14E92FF23100FD000BB9797 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14E92FE23100FD000BB9797 /* MainView.swift */; };
-		A1520622230EE0F70022BB6A /* EmergencyNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */; };
-		A1520624230EE16E0022BB6A /* EmergencyNumbers.json in Resources */ = {isa = PBXBuildFile; fileRef = A1520623230EE16E0022BB6A /* EmergencyNumbers.json */; };
-		A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB2230B033A0013D2B1 /* AdvicesView.swift */; };
-		A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB4230B05350013D2B1 /* LawsView.swift */; };
-		A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */; };
-		A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */; };
-		A1521EBB230B05AD0013D2B1 /* InstitutionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */; };
-		A1521EBD230B07BF0013D2B1 /* Advice.json in Resources */ = {isa = PBXBuildFile; fileRef = A1521EBC230B07BF0013D2B1 /* Advice.json */; };
-		A1555444230DA71E009EBB90 /* LawsNavigationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */; };
-		A1555446230DA9D6009EBB90 /* LawDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1555445230DA9D6009EBB90 /* LawDetail.swift */; };
-		A155A3192304C9B6004BBF4C /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = A155A3182304C9B6004BBF4C /* test.json */; };
 		A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB322F36E6B002BF935 /* AppDelegate.swift */; };
 		A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB522F36E6B002BF935 /* SceneDelegate.swift */; };
 		A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CECB722F36E6B002BF935 /* ContentView.swift */; };
@@ -53,24 +65,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F0776342316701400BBA3B6 /* AdvicesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvicesView.swift; sourceTree = "<group>"; };
+		9F0776362316701F00BBA3B6 /* LawsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LawsView.swift; sourceTree = "<group>"; };
+		9F0776382316702900BBA3B6 /* LawsNavigationRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LawsNavigationRow.swift; sourceTree = "<group>"; };
+		9F07763A2316703100BBA3B6 /* DifficultSituationsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DifficultSituationsView.swift; sourceTree = "<group>"; };
+		9F07763C2316704100BBA3B6 /* EmergencyNumbersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmergencyNumbersView.swift; sourceTree = "<group>"; };
+		9F07763E2316704E00BBA3B6 /* InstitutionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstitutionsView.swift; sourceTree = "<group>"; };
+		9F0776402316706200BBA3B6 /* test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = test.json; path = StaySafe/test.json; sourceTree = SOURCE_ROOT; };
+		9F0776422316706D00BBA3B6 /* LawDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LawDetail.swift; sourceTree = "<group>"; };
+		9F0776442316707100BBA3B6 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		9F0776462316707E00BBA3B6 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		9F0776482316708400BBA3B6 /* EmergencyNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmergencyNumbers.swift; sourceTree = "<group>"; };
+		9F0776862316724D00BBA3B6 /* Menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Menu.json; sourceTree = "<group>"; };
+		9F0776882316725300BBA3B6 /* Advice.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Advice.json; sourceTree = "<group>"; };
+		9F07768A2316725C00BBA3B6 /* EmergencyNumbers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EmergencyNumbers.json; sourceTree = "<group>"; };
+		9F07768C231726CC00BBA3B6 /* Advices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Advices.swift; sourceTree = "<group>"; };
+		9F07768E2317F24100BBA3B6 /* AdvicesDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvicesDetail.swift; sourceTree = "<group>"; };
+		9F2846DF234B69330009E58B /* InstitutionsDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstitutionsDetail.swift; sourceTree = "<group>"; };
+		9F2846E1234B6B660009E58B /* InstitutionsNavigationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstitutionsNavigationRow.swift; sourceTree = "<group>"; };
+		9F2846E3234B800A0009E58B /* InstitutionMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstitutionMapView.swift; sourceTree = "<group>"; };
+		9F96DF1E231ED8DB001F4027 /* AdvicesNavigationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvicesNavigationRow.swift; sourceTree = "<group>"; };
+		9F96DF20231EDDC8001F4027 /* DifficultSituations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DifficultSituations.json; sourceTree = "<group>"; };
+		9F96DF22231EDE10001F4027 /* DifficultSituations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifficultSituations.swift; sourceTree = "<group>"; };
+		9F96DF24231EDE7C001F4027 /* SituationsDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SituationsDetail.swift; sourceTree = "<group>"; };
+		9F96DF26231EDE8B001F4027 /* SituationsNavigationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SituationsNavigationRow.swift; sourceTree = "<group>"; };
+		9FEA34B7234510EE0027D0EA /* Institutions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Institutions.json; sourceTree = "<group>"; };
+		9FEA34B923451C600027D0EA /* Institutions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Institutions.swift; sourceTree = "<group>"; };
 		A144DEB822FB172900A15921 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.json; };
 		A14BC3382305A09A00D02376 /* Laws.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Laws.json; path = ../Laws.json; sourceTree = "<group>"; };
 		A14BC33A2305CFF100D02376 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 		A14BC33B2305CFF100D02376 /* Laws.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Laws.swift; sourceTree = "<group>"; };
-		A14BC33F2305E9A700D02376 /* Menu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Menu.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Menu.json; sourceTree = "<group>"; };
-		A14BC3412305E9FC00D02376 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/Menu.swift; sourceTree = "<group>"; };
-		A14E92FE23100FD000BB9797 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MainView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/MainView.swift; sourceTree = "<group>"; };
-		A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmergencyNumbers.swift; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Models/EmergencyNumbers.swift; sourceTree = "<group>"; };
-		A1520623230EE16E0022BB6A /* EmergencyNumbers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = EmergencyNumbers.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/EmergencyNumbers.json; sourceTree = "<group>"; };
-		A1521EB2230B033A0013D2B1 /* AdvicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AdvicesView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/AdvicesView.swift; sourceTree = "<group>"; };
-		A1521EB4230B05350013D2B1 /* LawsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawsView.swift; sourceTree = "<group>"; };
-		A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DifficultSituationsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/DifficultSituationsView.swift; sourceTree = "<group>"; };
-		A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmergencyNumbersView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/EmergencyNumbersView.swift; sourceTree = "<group>"; };
-		A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InstitutionsView.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/InstitutionsView.swift; sourceTree = "<group>"; };
-		A1521EBC230B07BF0013D2B1 /* Advice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = Advice.json; path = ../../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/Resources/Advice.json; sourceTree = "<group>"; };
-		A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawsNavigationRow.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawsNavigationRow.swift; sourceTree = "<group>"; };
-		A1555445230DA9D6009EBB90 /* LawDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LawDetail.swift; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/LawDetail.swift; sourceTree = "<group>"; };
-		A155A3182304C9B6004BBF4C /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = test.json; path = ../../../../../System/Volumes/Data/Users/stud/Desktop/StaySafe/StaySafe/test.json; sourceTree = "<group>"; };
 		A19CECB022F36E6B002BF935 /* StaySafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaySafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19CECB322F36E6B002BF935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A19CECB522F36E6B002BF935 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,14 +136,77 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9FEA34B123450E570027D0EA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9FEA34B623450E8E0027D0EA /* Institutions */,
+				9FEA34B523450E7C0027D0EA /* DifficultSituations */,
+				9FEA34B423450E750027D0EA /* EmergencyNumbers */,
+				9FEA34B323450E6F0027D0EA /* Laws */,
+				9FEA34B223450E620027D0EA /* Advices */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9FEA34B223450E620027D0EA /* Advices */ = {
+			isa = PBXGroup;
+			children = (
+				9F96DF1E231ED8DB001F4027 /* AdvicesNavigationRow.swift */,
+				9F07768E2317F24100BBA3B6 /* AdvicesDetail.swift */,
+				9F0776342316701400BBA3B6 /* AdvicesView.swift */,
+			);
+			path = Advices;
+			sourceTree = "<group>";
+		};
+		9FEA34B323450E6F0027D0EA /* Laws */ = {
+			isa = PBXGroup;
+			children = (
+				9F0776422316706D00BBA3B6 /* LawDetail.swift */,
+				9F0776362316701F00BBA3B6 /* LawsView.swift */,
+				9F0776382316702900BBA3B6 /* LawsNavigationRow.swift */,
+			);
+			path = Laws;
+			sourceTree = "<group>";
+		};
+		9FEA34B423450E750027D0EA /* EmergencyNumbers */ = {
+			isa = PBXGroup;
+			children = (
+				9F07763C2316704100BBA3B6 /* EmergencyNumbersView.swift */,
+			);
+			path = EmergencyNumbers;
+			sourceTree = "<group>";
+		};
+		9FEA34B523450E7C0027D0EA /* DifficultSituations */ = {
+			isa = PBXGroup;
+			children = (
+				9F07763A2316703100BBA3B6 /* DifficultSituationsView.swift */,
+				9F96DF26231EDE8B001F4027 /* SituationsNavigationRow.swift */,
+				9F96DF24231EDE7C001F4027 /* SituationsDetail.swift */,
+			);
+			path = DifficultSituations;
+			sourceTree = "<group>";
+		};
+		9FEA34B623450E8E0027D0EA /* Institutions */ = {
+			isa = PBXGroup;
+			children = (
+				9F07763E2316704E00BBA3B6 /* InstitutionsView.swift */,
+				9F2846DF234B69330009E58B /* InstitutionsDetail.swift */,
+				9F2846E1234B6B660009E58B /* InstitutionsNavigationRow.swift */,
+				9F2846E3234B800A0009E58B /* InstitutionMapView.swift */,
+			);
+			path = Institutions;
+			sourceTree = "<group>";
+		};
 		A144DEB722FB172900A15921 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				9FEA34B7234510EE0027D0EA /* Institutions.json */,
+				9F96DF20231EDDC8001F4027 /* DifficultSituations.json */,
+				9F0776882316725300BBA3B6 /* Advice.json */,
 				A14BC3382305A09A00D02376 /* Laws.json */,
+				9F07768A2316725C00BBA3B6 /* EmergencyNumbers.json */,
+				9F0776862316724D00BBA3B6 /* Menu.json */,
 				A144DEB822FB172900A15921 /* Contents.json */,
-				A14BC33F2305E9A700D02376 /* Menu.json */,
-				A1521EBC230B07BF0013D2B1 /* Advice.json */,
-				A1520623230EE16E0022BB6A /* EmergencyNumbers.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -127,10 +214,13 @@
 		A14BC3392305CFE300D02376 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				9F07768C231726CC00BBA3B6 /* Advices.swift */,
 				A14BC33B2305CFF100D02376 /* Laws.swift */,
 				A14BC33A2305CFF100D02376 /* DataLoader.swift */,
-				A14BC3412305E9FC00D02376 /* Menu.swift */,
-				A1520621230EE0F70022BB6A /* EmergencyNumbers.swift */,
+				9F0776482316708400BBA3B6 /* EmergencyNumbers.swift */,
+				9F0776462316707E00BBA3B6 /* Menu.swift */,
+				9F96DF22231EDE10001F4027 /* DifficultSituations.swift */,
+				9FEA34B923451C600027D0EA /* Institutions.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -158,24 +248,18 @@
 		A19CECB222F36E6B002BF935 /* StaySafe */ = {
 			isa = PBXGroup;
 			children = (
+				9FEA34B123450E570027D0EA /* Views */,
 				A14BC3392305CFE300D02376 /* Models */,
 				A144DEB722FB172900A15921 /* Resources */,
 				A19CECB322F36E6B002BF935 /* AppDelegate.swift */,
 				A19CECB522F36E6B002BF935 /* SceneDelegate.swift */,
 				A19CECB722F36E6B002BF935 /* ContentView.swift */,
-				A1521EB2230B033A0013D2B1 /* AdvicesView.swift */,
-				A1521EB4230B05350013D2B1 /* LawsView.swift */,
-				A1555443230DA71E009EBB90 /* LawsNavigationRow.swift */,
-				A1521EB6230B05670013D2B1 /* DifficultSituationsView.swift */,
-				A1521EB8230B05990013D2B1 /* EmergencyNumbersView.swift */,
-				A1521EBA230B05AD0013D2B1 /* InstitutionsView.swift */,
 				A19CECB922F36E6D002BF935 /* Assets.xcassets */,
 				A19CECBE22F36E6D002BF935 /* LaunchScreen.storyboard */,
 				A19CECC122F36E6D002BF935 /* Info.plist */,
+				9F0776442316707100BBA3B6 /* MainView.swift */,
+				9F0776402316706200BBA3B6 /* test.json */,
 				A19CECBB22F36E6D002BF935 /* Preview Content */,
-				A155A3182304C9B6004BBF4C /* test.json */,
-				A1555445230DA9D6009EBB90 /* LawDetail.swift */,
-				A14E92FE23100FD000BB9797 /* MainView.swift */,
 			);
 			path = StaySafe;
 			sourceTree = "<group>";
@@ -314,14 +398,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				A19CECC022F36E6D002BF935 /* LaunchScreen.storyboard in Resources */,
-				A14BC3402305E9A700D02376 /* Menu.json in Resources */,
-				A1520624230EE16E0022BB6A /* EmergencyNumbers.json in Resources */,
+				9F96DF21231EDDC8001F4027 /* DifficultSituations.json in Resources */,
 				A19CECBD22F36E6D002BF935 /* Preview Assets.xcassets in Resources */,
+				9F07768B2316725C00BBA3B6 /* EmergencyNumbers.json in Resources */,
+				9F0776872316724D00BBA3B6 /* Menu.json in Resources */,
 				A14BC33C2305E7D400D02376 /* Laws.json in Resources */,
 				A19CECBA22F36E6D002BF935 /* Assets.xcassets in Resources */,
 				A144DEB922FB172900A15921 /* Contents.json in Resources */,
-				A155A3192304C9B6004BBF4C /* test.json in Resources */,
-				A1521EBD230B07BF0013D2B1 /* Advice.json in Resources */,
+				9FEA34B8234510EE0027D0EA /* Institutions.json in Resources */,
+				9F0776412316706200BBA3B6 /* test.json in Resources */,
+				9F0776892316725400BBA3B6 /* Advice.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,20 +432,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1521EBB230B05AD0013D2B1 /* InstitutionsView.swift in Sources */,
+				9F07763B2316703100BBA3B6 /* DifficultSituationsView.swift in Sources */,
+				9F0776432316706D00BBA3B6 /* LawDetail.swift in Sources */,
 				A14BC3432305EBCA00D02376 /* DataLoader.swift in Sources */,
-				A1521EB9230B05990013D2B1 /* EmergencyNumbersView.swift in Sources */,
-				A1521EB3230B033A0013D2B1 /* AdvicesView.swift in Sources */,
+				9F96DF27231EDE8B001F4027 /* SituationsNavigationRow.swift in Sources */,
+				9FEA34BA23451C600027D0EA /* Institutions.swift in Sources */,
+				9F96DF25231EDE7C001F4027 /* SituationsDetail.swift in Sources */,
 				A19CECB422F36E6B002BF935 /* AppDelegate.swift in Sources */,
-				A1555444230DA71E009EBB90 /* LawsNavigationRow.swift in Sources */,
-				A1521EB7230B05670013D2B1 /* DifficultSituationsView.swift in Sources */,
-				A1521EB5230B05350013D2B1 /* LawsView.swift in Sources */,
+				9F96DF1F231ED8DB001F4027 /* AdvicesNavigationRow.swift in Sources */,
+				9F0776392316702900BBA3B6 /* LawsNavigationRow.swift in Sources */,
+				9F2846E4234B800A0009E58B /* InstitutionMapView.swift in Sources */,
+				9F96DF23231EDE10001F4027 /* DifficultSituations.swift in Sources */,
+				9F2846E0234B69330009E58B /* InstitutionsDetail.swift in Sources */,
 				A19CECB622F36E6B002BF935 /* SceneDelegate.swift in Sources */,
-				A14BC3422305E9FC00D02376 /* Menu.swift in Sources */,
-				A1555446230DA9D6009EBB90 /* LawDetail.swift in Sources */,
+				9F07763D2316704100BBA3B6 /* EmergencyNumbersView.swift in Sources */,
+				9F07768F2317F24100BBA3B6 /* AdvicesDetail.swift in Sources */,
+				9F07768D231726CC00BBA3B6 /* Advices.swift in Sources */,
+				9F2846E2234B6B660009E58B /* InstitutionsNavigationRow.swift in Sources */,
+				9F07763F2316704E00BBA3B6 /* InstitutionsView.swift in Sources */,
+				9F0776492316708400BBA3B6 /* EmergencyNumbers.swift in Sources */,
 				A14BC3442305EBD000D02376 /* Laws.swift in Sources */,
-				A1520622230EE0F70022BB6A /* EmergencyNumbers.swift in Sources */,
-				A14E92FF23100FD000BB9797 /* MainView.swift in Sources */,
+				9F0776472316707E00BBA3B6 /* Menu.swift in Sources */,
+				9F0776372316701F00BBA3B6 /* LawsView.swift in Sources */,
+				9F0776352316701400BBA3B6 /* AdvicesView.swift in Sources */,
+				9F0776452316707100BBA3B6 /* MainView.swift in Sources */,
 				A19CECB822F36E6B002BF935 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -525,8 +621,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "StaySafe/Preview\\ Content";
+				DEVELOPMENT_TEAM = 4W294URY36;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = StaySafe/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -545,8 +643,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "StaySafe/Preview\\ Content";
+				DEVELOPMENT_TEAM = 4W294URY36;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = StaySafe/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
